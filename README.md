@@ -80,6 +80,8 @@ Todos los ficheros PDF y artículos web se han transformado a texto plano para s
 ## Resultados
 
 ## Diagrama de Grantt del desarrollo del proyecto
+Nuestro diagrama de Grantt inicial sería el siguiente:
+![Diagrama de Grantt](Grant.PNG)
 
 ## Propuesta de modelo de negocio para el desarrollo
 La propuesta que seguimos con esta aplicación es la de obtener los datos con respecto al turimo de ciertas ciudades para enviarlos a diferentes touroperadoras y así poder realizar diferentes campañas de atracción de turistas. Con estos datos, se pueden realizar comparaciones entre los países competidores, realizar ofertas para los turistas más potenciales, mejorar la llegada de turistas no tan destacados, etc.
