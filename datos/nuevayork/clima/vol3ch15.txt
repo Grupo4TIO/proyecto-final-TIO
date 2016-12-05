@@ -1,0 +1,1678 @@
+Weather as a Force Multiplier:
+ Owning the Weather in 2025
+
+                 A Research Paper
+                    Presented To
+                  Air Force 2025
+
+                          by
+               Col Tamzy J. House
+            Lt Col James B. Near, Jr.
+         LTC William B. Shields (USA)
+             Maj Ronald J. Celentano
+             Maj David M. Husband
+                Maj Ann E. Mercer
+                Maj James E. Pugh
+
+                    August 1996
+
+
+                                       Disclaimer
+
+2025 is a study designed to comply with a directive from the chief of staff of the Air Force to examine the
+concepts, capabilities, and technologies the United States will require to remain the dominant air and space
+force in the future. Presented on 17 June 1996, this report was produced in the Department of Defense school
+environment of academic freedom and in the interest of advancing concepts related to national defense. The
+views expressed in this report are those of the authors and do not reflect the official policy or position of the
+United States Air Force, Department of Defense, or the United States government.
+This report contains fictional representations of future situations/scenarios. Any similarities to real people or
+events, other than those specifically cited, are unintentional and are for purposes of illustration only.
+This publication has been reviewed by security and policy review authorities, is unclassified, and is cleared
+for public release.
+
+                                                                ii
+
+
+          Contents
+
+Chapter             Page
+
+         Disclaimer ..........................................................................................................................................ii
+
+         Illustrations........................................................................................................................................iv
+
+         Tables................................................................................................................................................iv
+
+         Acknowledgments...............................................................................................................................v
+
+         Executive Summary ...........................................................................................................................vi
+
+1 Introduction.........................................................................................................................................1
+
+2 Required Capability............................................................................................................................3
+          Why Would We Want to Mess with the Weather? ........................................................................3
+          What Do We Mean by “Weather-modification”?..........................................................................4
+
+3 System Description .............................................................................................................................8
+          The Global Weather Network.......................................................................................................8
+          Applying Weather-modification to Military Operations .............................................................10
+
+4 Concept of Operations ......................................................................................................................13
+          Precipitation ...............................................................................................................................13
+          Fog..............................................................................................................................................16
+          Storms.........................................................................................................................................18
+          Exploitation of “NearSpace” for Space Control......................................................................... 20
+          Opportunities Afforded by Space Weather-modification............................................................ 20
+          Communications Dominance via Ionospheric Modification........................................................21
+          Artificial Weather.......................................................................................................................27
+          Concept of Operations Summary.................................................................................................28
+
+5 Investigation Recommendations........................................................................................................31
+          How Do We Get There From Here?...........................................................................................31
+          Conclusions ................................................................................................................................34
+
+Appendix            Page
+
+A Why Is the Ionosphere Important? .....................................................................................................36
+
+B Research to Better Understand and Predict Ionospheric Effects........................................................39
+
+C Acronyms and Definitions .................................................................................................................41
+
+         Bibliography.....................................................................................................................................42
+
+          iii
+
+
+        Illustrations
+
+Figure                 Page
+
+3-1. Global Weather Network....................................................................................................................9
+
+3-2. The Military System for Weather-Modification Operations. ............................................................11
+
+4-1. Crossed-Beam Approach for Generating an Artificial Ionospheric Mirror...................................... 23
+
+4-2. Artificial Ionospheric Mirrors Point-to-Point Communications .......................................................24
+
+4-3. Artificial Ionospheric Mirror Over-the-Horizon Surveillance Concept. ..........................................25
+
+4-4. Scenarios for Telecommunications Degradation ..............................................................................26
+
+5-1. A Core Competency Road Map to Weather Modification in 2025. ..................................................32
+
+5-2. A Systems Development Road Map to Weather Modification in 2025.............................................34
+
+        Tables
+
+Table                  Page
+
+1 Operational Capabilities Matrix........................................................................................................vi
+
+        iv
+
+
+                                   Acknowledgments
+
+      We express our appreciation to Mr Mike McKim of Air War College who provided a wealth of
+technical expertise and innovative ideas that significantly contributed to our paper. We are also especially
+grateful for the devoted support of our families during this research project. Their understanding and
+patience during the demanding research period were crucial to the project’s success.
+
+                                                                v
+
+
+                                  Executive Summary
+
+      In 2025, US aerospace forces can “own the weather” by capitalizing on emerging technologies and
+focusing development of those technologies to war-fighting applications. Such a capability offers the war
+fighter tools to shape the battlespace in ways never before possible. It provides opportunities to impact
+operations across the full spectrum of conflict and is pertinent to all possible futures. The purpose of this
+paper is to outline a strategy for the use of a future weather-modification system to achieve military
+objectives rather than to provide a detailed technical road map.
+
+      A high-risk, high-reward endeavor, weather-modification offers a dilemma not unlike the splitting of the
+atom. While some segments of society will always be reluctant to examine controversial issues such as
+weather-modification, the tremendous military capabilities that could result from this field are ignored at our
+own peril. From enhancing friendly operations or disrupting those of the enemy via small-scale tailoring of
+natural weather patterns to complete dominance of global communications and counterspace control,
+weather-modification offers the war fighter a wide-range of possible options to defeat or coerce an
+adversary. Some of the potential capabilities a weather-modification system could provide to a war-fighting
+commander in chief (CINC) are listed in table 1.
+
+      Technology advancements in five major areas are necessary for an integrated weather-modification
+capability: (1) advanced nonlinear modeling techniques, (2) computational capability, (3) information
+gathering and transmission, (4) a global sensor array, and (5) weather intervention techniques. Some
+intervention tools exist today and others may be developed and refined in the future.
+
+                                                                vi
+
+
+                                       Table 1
+
+Operational Capabilities Matrix
+
+DEGRADE ENEMY FORCES ENHANCE FRIENDLY FORCES
+
+Precipitation Enhancement              Precipitation Avoidance
+- Flood Lines of Communication         - Maintain/Improve LOC
+- Reduce PGM/Recce Effectiveness       - Maintain Visibility
+- Decrease Comfort Level/Morale        - Maintain Comfort Level/Morale
+Storm Enhancement                      Storm Modification
+- Deny Operations                      - Choose Battlespace Environment
+Precipitation Denial                   Space Weather
+- Deny Fresh Water                     - Improve Communication Reliability
+- Induce Drought                       - Intercept Enemy Transmissions
+Space Weather                          - Revitalize Space Assets
+- Disrupt Communications/Radar
+- Disable/Destroy Space Assets         Fog and Cloud Generation
+                                       - Increase Concealment
+Fog and Cloud Removal                  Fog and Cloud Removal
+- Deny Concealment                     - Maintain Airfield Operations
+- Increase Vulnerability to PGM/Recce  - Enhance PGM Effectiveness
+Detect Hostile Weather Activities      Defend against Enemy Capabilities
+
+      Current technologies that will mature over the next 30 years will offer anyone who has the necessary
+resources the ability to modify weather patterns and their corresponding effects, at least on the local scale.
+Current demographic, economic, and environmental trends will create global stresses that provide the
+impetus necessary for many countries or groups to turn this weather-modification ability into a capability.
+
+      In the United States, weather-modification will likely become a part of national security policy with
+both domestic and international applications. Our government will pursue such a policy, depending on its
+interests, at various levels. These levels could include unilateral actions, participation in a security
+framework such as NATO, membership in an international organization such as the UN, or participation in a
+coalition. Assuming that in 2025 our national security strategy includes weather-modification, its use in our
+national military strategy will naturally follow. Besides the significant benefits an operational capability
+would provide, another motivation to pursue weather-modification is to deter and counter potential
+adversaries.
+
+                                       vii
+
+
+      In this paper we show that appropriate application of weather-modification can provide battlespace
+dominance to a degree never before imagined. In the future, such operations will enhance air and space
+superiority and provide new options for battlespace shaping and battlespace awareness.1 “The technology is
+there, waiting for us to pull it all together;”2 in 2025 we can “Own the Weather.”
+
+                                                             Notes
+      1 The weather-modification capabilities described in this paper are consistent with the operating
+environments and missions relevant for aerospace forces in 2025 as defined by AF/LR, a long-range planning
+office reporting to the CSAF [based on AF/LR PowerPoint briefing “Air and Space Power Framework for
+Strategy Development (jda-2lr.ppt)].”
+      2 General Gordon R. Sullivan, “Moving into the 21st Century: America’s Army and Modernization,”
+Military Review (July 1993) quoted in Mary Ann Seagraves and Richard Szymber, “Weather a Force
+Multiplier,” Military Review, November/December 1995, 75.
+
+                                                               viii
+
+
+                                       Chapter 1
+
+                                      Introduction
+
+      Scenario: Imagine that in 2025 the US is fighting a rich, but now consolidated, politically powerful
+drug cartel in South America. The cartel has purchased hundreds of Russian-and Chinese-built fighters that
+have successfully thwarted our attempts to attack their production facilities. With their local numerical
+superiority and interior lines, the cartel is launching more than 10 aircraft for every one of ours. In addition,
+the cartel is using the French system probatoire d' observation de la terre (SPOT) positioning and tracking
+imagery systems, which in 2025 are capable of transmitting near-real-time, multispectral imagery with 1
+meter resolution. The US wishes to engage the enemy on an uneven playing field in order to exploit the full
+potential of our aircraft and munitions.
+
+      Meteorological analysis reveals that equatorial South America typically has afternoon thunderstorms on
+a daily basis throughout the year. Our intelligence has confirmed that cartel pilots are reluctant to fly in or
+near thunderstorms. Therefore, our weather force support element (WFSE), which is a part of the
+commander in chief’s (CINC) air operations center (AOC), is tasked to forecast storm paths and trigger or
+intensify thunderstorm cells over critical target areas that the enemy must defend with their aircraft. Since
+our aircraft in 2025 have all-weather capability, the thunderstorm threat is minimal to our forces, and we can
+effectively and decisively control the sky over the target.
+
+      The WFSE has the necessary sensor and communication capabilities to observe, detect, and act on
+weather-modification requirements to support US military objectives. These capabilities are part of an
+advanced battle area system that supports the war-fighting CINC. In our scenario, the CINC tasks the WFSE
+to conduct storm intensification and concealment operations. The WFSE models the atmospheric conditions
+
+                                                                1
+
+
+to forecast, with 90 percent confidence, the likelihood of successful modification using airborne cloud
+generation and seeding.
+
+      In 2025, uninhabited aerospace vehicles (UAV) are routinely used for weather-modification operations.
+By cross-referencing desired attack times with wind and thunderstorm forecasts and the SPOT satellite’s
+projected orbit, the WFSE generates mission profiles for each UAV. The WFSE guides each UAV using
+near-real-time information from a networked sensor array.
+
+      Prior to the attack, which is coordinated with forecasted weather conditions, the UAVs begin cloud
+generation and seeding operations. UAVs disperse a cirrus shield to deny enemy visual and infrared (IR)
+surveillance. Simultaneously, microwave heaters create localized scintillation to disrupt active sensing via
+synthetic aperture radar (SAR) systems such as the commercially available Canadian search and rescue
+satellite-aided tracking (SARSAT) that will be widely available in 2025. Other cloud seeding operations
+cause a developing thunderstorm to intensify over the target, severely limiting the enemy’s capability to
+defend. The WFSE monitors the entire operation in real-time and notes the successful completion of another
+very important but routine weather-modification mission.
+
+      This scenario may seem far-fetched, but by 2025 it is within the realm of possibility. The next chapter
+explores the reasons for weather-modification, defines the scope, and examines trends that will make it
+possible in the next 30 years.
+
+                                                                2
+
+
+                                       Chapter 2
+
+                                 Required Capability
+
+                                 Why Would We Want to Mess with the Weather?
+
+       According to Gen Gordon Sullivan, former Army chief of staff, “As we leap technology into the 21st
+century, we will be able to see the enemy day or night, in any weather— and go after him relentlessly.”1 A
+global, precise, real-time, robust, systematic weather-modification capability would provide war-fighting
+CINCs with a powerful force multiplier to achieve military objectives. Since weather will be common to all
+possible futures, a weather-modification capability would be universally applicable and have utility across
+the entire spectrum of conflict. The capability of influencing the weather even on a small scale could change
+it from a force degrader to a force multiplier.
+
+      People have always wanted to be able to do something about the weather. In the US, as early as 1839,
+newspaper archives tell of people with serious and creative ideas on how to make rain.2 In 1957, the
+president’s advisory committee on weather control explicitly recognized the military potential of weather-
+modification, warning in their report that it could become a more important weapon than the atom bomb.3
+
+      However, controversy since 1947 concerning the possible legal consequences arising from the
+deliberate alteration of large storm systems meant that little future experimentation could be conducted on
+storms which had the potential to reach land.4 In 1977, the UN General Assembly adopted a resolution
+prohibiting the hostile use of environmental modification techniques. The resulting “Convention on the
+Prohibition of Military or Any Other Hostile Use of Environmental Modification Technique (ENMOD)”
+
+                                                                3
+
+
+committed the signatories to refrain from any military or other hostile use of weather-modification which
+could result in widespread, long-lasting, or severe effects.5 While these two events have not halted the
+pursuit of weather-modification research, they have significantly inhibited its pace and the development of
+associated technologies, while producing a primary focus on suppressive versus intensification activities.
+
+      The influence of the weather on military operations has long been recognized. During World War II,
+Eisenhower said,
+
+          [i]n Europe bad weather is the worst enemy of the air [operations]. Some soldier once
+          said, “The weather is always neutral.” Nothing could be more untrue. Bad weather is
+          obviously the enemy of the side that seeks to launch projects requiring good weather, or of
+          the side possessing great assets, such as strong air forces, which depend upon good
+          weather for effective operations. If really bad weather should endure permanently, the
+          Nazi would need nothing else to defend the Normandy coast!6
+      The impact of weather has also been important in more recent military operations. A significant number
+of the air sorties into Tuzla during the initial deployment supporting the Bosnian peace operation aborted due
+to weather. During Operation Desert Storm, Gen Buster C. Glosson asked his weather officer to tell him
+which targets would be clear in 48 hours for inclusion in the air tasking order (ATO).7 But current
+forecasting capability is only 85 percent accurate for no more than 24 hours, which doesn't adequately meet
+the needs of the ATO planning cycle. Over 50 percent of the F-117 sorties weather aborted over their targets
+and A-10s only flew 75 of 200 scheduled close air support (CAS) missions due to low cloud cover during
+the first two days of the campaign.8 The application of weather-modification technology to clear a hole over
+the targets long enough for F-117s to attack and place bombs on target or clear the fog from the runway at
+Tuzla would have been a very effective force multiplier. Weather-modification clearly has potential for
+military use at the operational level to reduce the elements of fog and friction for friendly operations and to
+significantly increase them for the enemy.
+
+                                  What Do We Mean by “Weather-modification”?
+
+       Today, weather-modification is the alteration of weather phenomena over a limited area for a limited
+period of time.9 Within the next three decades, the concept of weather-modification could expand to include
+the ability to shape weather patterns by influencing their determining factors.10 Achieving such a highly
+
+                                                                4
+
+
+accurate and reasonably precise weather-modification capability in the next 30 years will require
+overcoming some challenging but not insurmountable technological and legal hurdles.
+
+      Technologically, we must have a solid understanding of the variables that affect weather. We must be
+able to model the dynamics of their relationships, map the possible results of their interactions, measure their
+actual real-time values, and influence their values to achieve a desired outcome. Society will have to
+provide the resources and legal basis for a mature capability to develop. How could all of this happen? The
+following notional scenario postulates how weather-modification might become both technically feasible and
+socially desirable by 2025.
+
+      Between now and 2005, technological advances in meteorology and the demand for more precise
+weather information by global businesses will lead to the successful identification and parameterization of
+the major variables that affect weather. By 2015, advances in computational capability, modeling techniques,
+and atmospheric information tracking will produce a highly accurate and reliable weather prediction
+capability, validated against real-world weather. In the following decade, population densities put pressure
+on the worldwide availability and cost of food and usable water. Massive life and property losses
+associated with natural weather disasters become increasingly unacceptable. These pressures prompt
+governments and/or other organizations who are able to capitalize on the technological advances of the
+previous 20 years to pursue a highly accurate and reasonably precise weather-modification capability. The
+increasing urgency to realize the benefits of this capability stimulates laws and treaties, and some unilateral
+actions, making the risks required to validate and refine it acceptable. By 2025, the world, or parts of it, are
+able to shape local weather patterns by influencing the factors that affect climate, precipitation, storms and
+their effects, fog, and near space. These highly accurate and reasonably precise civil applications of
+weather-modification technology have obvious military implications. This is particularly true for aerospace
+forces, for while weather may affect all mediums of operation, it operates in ours.
+
+      The term weather-modification may have negative connotations for many people, civilians and military
+members alike. It is thus important to define the scope to be considered in this paper so that potential critics
+or proponents of further research have a common basis for discussion.
+
+      In the broadest sense, weather-modification can be divided into two major categories: suppression and
+intensification of weather patterns. In extreme cases, it might involve the creation of completely new weather
+
+                                                                5
+
+
+patterns, attenuation or control of severe storms, or even alteration of global climate on a far-reaching and/or
+long-lasting scale. In the mildest and least controversial cases it may consist of inducing or suppressing
+precipitation, clouds, or fog for short times over a small-scale region. Other low-intensity applications might
+include the alteration and/or use of near space as a medium to enhance communications, disrupt active or
+passive sensing, or other purposes. In conducting the research for this study, the broadest possible
+interpretation of weather-modification was initially embraced, so that the widest range of opportunities
+available for our military in 2025 were thoughtfully considered. However, for several reasons described
+below, this paper focuses primarily on localized and short-term forms of weather-modification and how
+these could be incorporated into war-fighting capability. The primary areas discussed include generation and
+dissipation of precipitation, clouds, and fog; modification of localized storm systems; and the use of the
+ionosphere and near space for space control and communications dominance. These applications are
+consistent with CJCSI 3810.01, “Meteorological and Oceanographic Operations.”11
+
+      Extreme and controversial examples of weather modification—creation of made-to-order weather,
+large-scale climate modification, creation and/or control (or “steering”) of severe storms, etc.—were
+researched as part of this study but receive only brief mention here because, in the authors’ judgment, the
+technical obstacles preventing their application appear insurmountable within 30 years.12 If this were not the
+case, such applications would have been included in this report as potential military options, despite their
+controversial and potentially malevolent nature and their inconsistency with standing UN agreements to
+which the US is a signatory.
+
+      On the other hand, the weather-modification applications proposed in this report range from technically
+proven to potentially feasible. They are similar, however, in that none are currently employed or envisioned
+for employment by our operational forces. They are also similar in their potential value for the war fighter of
+the future, as we hope to convey in the following chapters. A notional integrated system that incorporates
+weather-modification tools will be described in the next chapter; how those tools might be applied are then
+discussed within the framework of the Concept of Operations in chapter 4.
+
+                                                                6
+
+
+      1 Gen Gordon R. Sullivan, “Moving into the 21st Century: America’s Army and Modernization,”
+Military Review (July 1993) quoted in Mary Ann Seagraves and Richard Szymber, “Weather a Force
+Multiplier,” Military Review, November/December 1995, 75.
+
+      2 Horace R. Byers, “History of Weather-modification,” in Wilmot N. Hess, ed. Weather and Climate
+Modification, (New York: John Wiley & Sons, 1974), 4.
+
+      3 William B. Meyer, “The Life and Times of US Weather: What Can We Do About It?” American
+Heritage 37, no. 4 (June/July 1986), 48.
+
+      4 Byers, 13.
+      5 US Department of State, The Department of State Bulletin. 74, no. 1981 (13 June 1977): 10.
+      6 Dwight D Eisenhower. “Crusade in Europe,” quoted in John F. Fuller, Thor’s Legions (Boston:
+American Meterology Society, 1990), 67.
+      7 Interview of Lt Col Gerald F. Riley, Staff Weather Officer to CENTCOM OIC of CENTAF Weather
+Support Force and Commander of 3rd Weather Squadron, in “Desert Shield/Desert Storm Interview Series,”
+by Dr William E. Narwyn, AWS Historian, 29 May 1991.
+      8 Thomas A. Keaney and Eliot A. Cohen. Gulf War Air Power Survey Summary Report (Washington
+D.C.: Government Printing Office, 1993), 172.
+      9 Herbert S. Appleman, An Introduction to Weather-modification (Scott AFB, Ill.: Air Weather
+Service/MAC, September 1969), 1.
+      10 William Bown, “Mathematicians Learn How to Tame Chaos,” New Scientist, 30 May 1992, 16.
+      11 CJCSI 3810.01, Meteorological and Oceanographic Operations, 10 January 95. This CJCS
+Instruction establishes policy and assigns responsibilities for conducting meteorological and oceanographic
+operations. It also defines the terms widespread, long-lasting, and severe, in order to identify those activities
+that US forces are prohibited from conducting under the terms of the UN Environmental Modification
+Convention. Widespread is defined as encompassing an area on the scale of several hundred km; long-lasting
+means lasting for a period of months, or approximately a season; and severe involves serious or significant
+disruption or harm to human life, natural and economic resources, or other assets.
+      12 Concern about the unintended consequences of attempting to “control” the weather is well justified.
+Weather is a classic example of a chaotic system (i.e., a system that never exactly repeats itself). A chaotic
+system is also extremely sensitive: minuscule differences in conditions greatly affect outcomes. According to
+Dr. Glenn James, a widely published chaos expert, technical advances may provide a means to predict when
+weather transitions will occur and the magnitude of the inputs required to cause those transitions; however, it
+will never be possible to precisely predict changes that occur as a result of our inputs. The chaotic nature of
+weather also limits our ability to make accurate long-range forecasts. The renowned physicist Edward
+Teller recently presented calculations he performed to determine the long-range weather forecasting
+improvement that would result from a satellite constellation providing continuous atmospheric measurements
+over a 1 km2 grid worldwide. Such a system, which is currently cost-prohibitive, would only improve long-
+range forecasts from the current five days to approximately 14 days. Clearly, there are definite physical
+limits to mankind’s ability to control nature, but the extent of those physical limits remains an open question.
+Sources: G. E. James, “Chaos Theory: The Essentials for Military Applications,” in ACSC Theater Air
+Campaign Studies Coursebook, AY96, 8 (Maxwell AFB, Ala: Air University Press, 1995), 1-64. The
+Teller calculations are cited in Reference 49 of this source.
+
+                                                                7
+
+
+                                       Chapter 3
+
+                                  System Description
+
+      Our vision is that by 2025 the military could influence the weather on a mesoscale (<200 km2) or
+microscale (immediate local area) to achieve operational capabilities such as those listed in Table 1. The
+capability would be the synergistic result of a system consisting of (1) highly trained weather force
+specialists (WFS) who are members of the CINC’s weather force support element (WFSE); (2) access ports
+to the global weather network (GWN), where worldwide weather observations and forecasts are obtained
+near-real-time from civilian and military sources; (3) a dense, highly accurate local area weather sensing and
+communication system; (4) an advanced computer local area weather-modification modeling and prediction
+capability within the area of responsibility (AOR); (5) proven weather-modification intervention
+technologies; and (6) a feedback capability.
+
+                                              The Global Weather Network
+
+      The GWN is envisioned to be an evolutionary expansion of the current military and civilian worldwide
+weather data network. By 2025, it will be a super high-speed, expanded bandwidth, communication network
+filled with near-real-time weather observations taken from a denser and more accurate worldwide
+observation network resulting from highly improved ground, air, maritime, and space sensors. The network
+will also provide access to forecast centers around the world where sophisticated, tailored forecast and data
+products, generated from weather prediction models (global, regional, local, specialized, etc.) based on the
+latest nonlinear mathematical techniques are made available to GWN customers for near-real-time use.
+
+                                                                8
+
+
+      By 2025, we envision that weather prediction models, in general, and mesoscale weather-modification
+models, in particular, will be able to emulate all-weather producing variables, along with their interrelated
+dynamics, and prove to be highly accurate in stringent measurement trials against empirical data. The brains
+of these models will be advanced software and hardware capabilities which can rapidly ingest trillions of
+environmental data points, merge them into usable data bases, process the data through the weather prediction
+models, and disseminate the weather information over the GWN in near-real-time.1 This network is depicted
+schematically in figure 3-1.
+
+                     Source: Microsoft Clipart Gallery © 1995 with courtesy from Microsoft.
+                                         Figure 3-1. Global Weather Network
+
+      Evidence of the evolving future weather modeling and prediction capability as well as the GWN can be
+seen in the national oceanic and atmospheric administration's (NOAA) 1995–2005 strategic plan. It includes
+program elements to "advance short-term warning and forecast services, implement seasonal to inter-annual
+climate forecasts, and predict and assess decadal to centennial change;"2 it does not, however, include plans
+for weather-modification modeling or modification technology development. NOAA's plans include
+extensive data gathering programs such as Next Generation Radar (NEXRAD) and Doppler weather
+surveillance systems deployed throughout the US. Data from these sensing systems feed into over 100
+forecast centers for processing by the Advanced Weather Interactive Processing System (AWIPS), which
+will provide data communication, processing, and display capabilities for extensive forecasting. In addition,
+
+                                                                9
+
+
+NOAA has leased a Cray C90 supercomputer capable of performing over 1.5x1010 operations per second that
+has already been used to run a Hurricane Prediction System.3
+
+                              Applying Weather-modification to Military Operations
+      How will the military, in general, and the USAF, in particular, manage and employ a weather-
+modification capability? We envision this will be done by the weather force support element (WFSE),
+whose primary mission would be to support the war-fighting CINCs with weather-modification options, in
+addition to current forecasting support. Although the WFSE could operate anywhere as long as it has access
+to the GWN and the system components already discussed, it will more than likely be a component within the
+AOC or its 2025-equivalent. With the CINC’s intent as guidance, the WFSE formulates weather-
+modification options using information provided by the GWN, local weather data network, and weather-
+modification forecast model. The options include range of effect, probability of success, resources to be
+expended, the enemy’s vulnerability, and risks involved. The CINC chooses an effect based on these inputs,
+and the WFSE then implements the chosen course, selecting the right modification tools and employing them
+to achieve the desired effect. Sensors detect the change and feed data on the new weather pattern to the
+modeling system which updates its forecast accordingly. The WFSE checks the effectiveness of its efforts by
+pulling down the updated current conditions and new forecast(s) from the GWN and local weather data
+network, and plans follow-on missions as needed. This concept is illustrated in figure 3-2.
+
+                                                               10
+
+
+                                                 GWN
+
+CINC  1-INTENT
+
+            2-WX MOD         FORECASTS/               6-FEEDBACK
+                                  DATA
+                OPTIONS
+                              WEATHER FORCE
+3-DECISION                   SUPPORT ELEMENT
+
+             AIR OPS CENTER          4-EMPLOY
+
+                                   WX MOD TOOLS
+
+                                                 5-CAUSE EFFECT
+
+                     Source: Microsoft Clipart Gallery © 1995 with courtesy from Microsoft.
+                    Figure 3-2. The Military System for Weather-Modification Operations.
+
+      WFSE personnel will need to be experts in information systems and well schooled in the arts of both
+offensive and defensive information warfare. They would also have an in-depth understanding of the GWN
+and an appreciation for how weather-modification could be employed to meet a CINC’s needs.
+
+      Because of the nodal web nature of the GWN, this concept would be very flexible. For instance, a
+WFSE could be assigned to each theater to provide direct support to the CINC. The system would also be
+survivable, with multiple nodes connected to the GWN.
+
+      A product of the information age, this system would be most vulnerable to information warfare. Each
+WFSE would need the most current defensive and offensive information capabilities available. Defensive
+abilities would be necessary for survival. Offensive abilities could provide spoofing options to create
+virtual weather in the enemy's sensory and information systems, making it more likely for them to make
+decisions producing results of our choosing rather than theirs. It would also allow for the capability to mask
+or disguise our weather-modification activities.
+
+                                                               11
+
+
+      Two key technologies are necessary to meld an integrated, comprehensive, responsive, precise, and
+effective weather-modification system. Advances in the science of chaos are critical to this endeavor. Also
+key to the feasibility of such a system is the ability to model the extremely complex nonlinear system of
+global weather in ways that can accurately predict the outcome of changes in the influencing variables.
+Researchers have already successfully controlled single variable nonlinear systems in the lab and
+hypothesize that current mathematical techniques and computer capacity could handle systems with up to five
+variables. Advances in these two areas would make it feasible to affect regional weather patterns by making
+small, continuous nudges to one or more influencing factors. Conceivably, with enough lead time and the
+right conditions, you could get “made-to-order” weather.4
+
+       Developing a true weather-modification capability will require various intervention tools to adjust the
+appropriate meteorological parameters in predictable ways. It is this area that must be developed by the
+military based on specific required capabilities such as those listed in table 1, table 1 is located in the
+Executive Summary. Such a system would contain a sensor array and localized battle area data net to
+provide the fine level of resolution required to detect intervention effects and provide feedback. This net
+would include ground, air, maritime, and space sensors as well as human observations in order to ensure the
+reliability and responsiveness of the system, even in the event of enemy countermeasures. It would also
+include specific intervention tools and technologies, some of which already exist and others which must be
+developed. Some of these proposed tools are described in the following chapter titled Concept of
+Operations. The total weather-modification process would be a real-time loop of continuous, appropriate,
+measured interventions, and feedback capable of producing desired weather behavior.
+
+                                                             Notes
+
+      1 SPACECAST 2020, Space Weather Support for Communications, white paper G (Maxwell AFB,
+Ala.: Air War College/2020, 1994).
+
+      2 Rear Adm Sigmund Petersen, “NOAA Moves Toward The 21st Century,” The Military Engineer 20,
+no. 571 (June-July 1995): 44.
+
+      3 Ibid.
+      4 William Brown, “Mathematicians Learn How to Tame Chaos,” New Scientist (30 May 1992): 16.
+
+                                                               12
+
+
+                                       Chapter 4
+
+                                Concept of Operations
+
+      The essential ingredient of the weather-modification system is the set of intervention techniques used to
+modify the weather. The number of specific intervention methodologies is limited only by the imagination,
+but with few exceptions they involve infusing either energy or chemicals into the meteorological process in
+the right way, at the right place and time. The intervention could be designed to modify the weather in a
+number of ways, such as influencing clouds and precipitation, storm intensity, climate, space, or fog.
+
+                                                         Precipitation
+
+      For centuries man has desired the ability to influence precipitation at the time and place of his choosing.
+Until recently, success in achieving this goal has been minimal; however, a new window of opportunity may
+exist resulting from development of new technologies and an increasing world interest in relieving water
+shortages through precipitation enhancement. Consequently, we advocate that the DOD explore the many
+opportunities (and also the ramifications) resulting from development of a capability to influence
+precipitation or conducting “selective precipitation modification.” Although the capability to influence
+precipitation over the long term (i.e., for more than several days) is still not fully understood. By 2025 we
+will certainly be capable of increasing or decreasing precipitation over the short term in a localized area.
+
+      Before discussing research in this area, it is important to describe the benefits of such a capability.
+While many military operations may be influenced by precipitation, ground mobility is most affected.
+Influencing precipitation could prove useful in two ways. First, enhancing precipitation could decrease the
+
+                                                               13
+
+
+enemy’s trafficability by muddying terrain, while also affecting their morale. Second, suppressing
+precipitation could increase friendly trafficability by drying out an otherwise muddied area.
+
+      What is the possibility of developing this capability and applying it to tactical operations by 2025?
+Closer than one might think. Research has been conducted in precipitation modification for many years, and
+an aspect of the resulting technology was applied to operations during the Vietnam War.1 These initial
+attempts provide a foundation for further development of a true capability for selective precipitation
+modification.
+
+      Interestingly enough, the US government made a conscious decision to stop building upon this
+foundation. As mentioned earlier, international agreements have prevented the US from investigating
+weather-modification operations that could have widespread, long-lasting, or severe effects. However,
+possibilities do exist (within the boundaries of established treaties) for using localized precipitation
+modification over the short term, with limited and potentially positive results.
+
+      These possibilities date back to our own previous experimentation with precipitation modification. As
+stated in an article appearing in the Journal of Applied Meteorology,
+
+          [n]early all the weather-modification efforts over the last quarter century have been aimed
+          at producing changes on the cloud scale through exploitation of the saturated vapor
+          pressure difference between ice and water. This is not to be criticized but it is time we
+          also consider the feasibility of weather-modification on other time-space scales and with
+          other physical hypotheses.2
+      This study by William M. Gray, et al., investigated the hypothesis that “significant beneficial influences
+can be derived through judicious exploitation of the solar absorption potential of carbon black dust.”3 The
+study ultimately found that this technology could be used to enhance rainfall on the mesoscale, generate cirrus
+clouds, and enhance cumulonimbus (thunderstorm) clouds in otherwise dry areas.
+      The technology can be described as follows. Just as a black tar roof easily absorbs solar energy and
+subsequently radiates heat during a sunny day, carbon black also readily absorbs solar energy. When
+dispersed in microscopic or “dust” form in the air over a large body of water, the carbon becomes hot and
+heats the surrounding air, thereby increasing the amount of evaporation from the body of water below. As the
+surrounding air heats up, parcels of air will rise and the water vapor contained in the rising air parcel will
+eventually condense to form clouds. Over time the cloud droplets increase in size as more and more water
+vapor condenses, and eventually they become too large and heavy to stay suspended and will fall as rain or
+
+                                                               14
+
+
+other forms of precipitation.4 The study points out that this precipitation enhancement technology would
+work best “upwind from coastlines with onshore flow.” Lake-effect snow along the southern edge of the
+Great Lakes is a naturally occurring phenomenon based on similar dynamics.
+
+      Can this type of precipitation enhancement technology have military applications? Yes, if the right
+conditions exist. For example, if we are fortunate enough to have a fairly large body of water available
+upwind from the targeted battlefield, carbon dust could be placed in the atmosphere over that water.
+Assuming the dynamics are supportive in the atmosphere, the rising saturated air will eventually form clouds
+and rainshowers downwind over the land.5 While the likelihood of having a body of water located upwind
+of the battlefield is unpredictable, the technology could prove enormously useful under the right conditions.
+Only further experimentation will determine to what degree precipitation enhancement can be controlled.
+
+      If precipitation enhancement techniques are successfully developed and the right natural conditions also
+exist, we must also be able to disperse carbon dust into the desired location. Transporting it in a completely
+controlled, safe, cost-effective, and reliable manner requires innovation. Numerous dispersal techniques
+have already been studied, but the most convenient, safe, and cost-effective method discussed is the use of
+afterburner-type jet engines to generate carbon particles while flying through the targeted air. This method is
+based on injection of liquid hydrocarbon fuel into the afterburner’s combustion gases. This direct generation
+method was found to be more desirable than another plausible method (i.e., the transport of large quantities of
+previously produced and properly sized carbon dust to the desired altitude).
+
+      The carbon dust study demonstrated that small-scale precipitation enhancement is possible and has been
+successfully verified under certain atmospheric conditions. Since the study was conducted, no known
+military applications of this technology have been realized. However, we can postulate how this technology
+might be used in the future by examining some of the delivery platforms conceivably available for effective
+dispersal of carbon dust or other effective modification agents in the year 2025.
+
+      One method we propose would further maximize the technology’s safety and reliability, by virtually
+eliminating the human element. To date, much work has been done on UAVs which can closely (if not
+completely) match the capabilities of piloted aircraft. If this UAV technology were combined with stealth and
+carbon dust technologies, the result could be a UAV aircraft invisible to radar while en route to the targeted
+area, which could spontaneously create carbon dust in any location. However, minimizing the number of
+
+                                                               15
+
+
+UAVs required to complete the mission would depend upon the development of a new and more efficient
+system to produce carbon dust by a follow-on technology to the afterburner-type jet engines previously
+mentioned. In order to effectively use stealth technology, this system must also have the ability to disperse
+carbon dust while minimizing (or eliminating) the UAV’s infrared heat source.
+
+      In addition to using stealth UAV and carbon dust absorption technology for precipitation enhancement,
+this delivery method could also be used for precipitation suppression. Although the previously mentioned
+study did not significantly explore the possibility of cloud seeding for precipitation suppression, this
+possibility does exist. If clouds were seeded (using chemical nuclei similar to those used today or perhaps a
+more effective agent discovered through continued research) before their downwind arrival to a desired
+location, the result could be a suppression of precipitation. In other words, precipitation could be “forced”
+to fall before its arrival in the desired territory, thereby making the desired territory “dry.” The strategic and
+operational benefits of doing this have previously been discussed.
+
+                                                               Fog
+
+      In general, successful fog dissipation requires some type of heating or seeding process. Which
+technique works best depends on the type of fog encountered. In simplest terms, there are two basic types of
+fog—cold and warm. Cold fog occurs at temperatures below 32oF. The best-known dissipation technique
+for cold fog is to seed it from the air with agents that promote the growth of ice crystals.6
+
+      Warm fog occurs at temperatures above 32oF and accounts for 90 percent of the fog-related problems
+encountered by flight operations.7 The best-known dissipation technique is heating because a small
+temperature increase is usually sufficient to evaporate the fog. Since heating usually isn’t practical, the next
+most effective technique is hygroscopic seeding.8 Hygroscopic seeding uses agents that absorb water vapor.
+This technique is most effective when accomplished from the air but can also be accomplished from the
+ground.9 Optimal results require advance information on fog depth, liquid water content, and wind.10
+
+      Decades of research show that fog dissipation is an effective application of weather-modification
+technology with demonstrated savings of huge proportions for both military and civil aviation.11 Local
+
+                                                               16
+
+
+municipalities have also shown an interest in applying these techniques to improve the safety of high-speed
+highways transiting areas of frequently occurring dense fog.12
+
+      There are some emerging technologies which may have important applications for fog dispersal. As
+discussed earlier, heating is the most effective dispersal method for the most commonly occurring type of fog.
+Unfortunately, it has proved impractical for most situations and would be difficult at best for contingency
+operations. However, the development of directed radiant energy technologies, such as microwaves and
+lasers, could provide new possibilities.
+
+      Lab experiments have shown microwaves to be effective for the heat dissipation of fog. However,
+results also indicate that the energy levels required exceed the US large power density exposure limit of 100
+watt/m2 and would be very expensive.13 Field experiments with lasers have demonstrated the capability to
+dissipate warm fog at an airfield with zero visibility. Generating 1 watt/cm2, which is approximately the US
+large power density exposure limit, the system raised visibility to one quarter of a mile in 20 seconds.14
+Laser systems described in the Space Operations portion of this AF 2025 study could certainly provide this
+capability as one of their many possible uses.
+
+      With regard to seeding techniques, improvements in the materials and delivery methods are not only
+plausible but likely. Smart materials based on nanotechnology are currently being developed with gigaops
+computer capability at their core. They could adjust their size to optimal dimensions for a given fog seeding
+situation and even make adjustments throughout the process. They might also enhance their dispersal
+qualities by adjusting their buoyancy, by communicating with each other, and by steering themselves within
+the fog. They will be able to provide immediate and continuous effectiveness feedback by integrating with a
+larger sensor network and can also change their temperature and polarity to improve their seeding effects.15
+As mentioned above, UAVs could be used to deliver and distribute these smart materials.
+
+      Recent army research lab experiments have demonstrated the feasibility of generating fog. They used
+commercial equipment to generate thick fog in an area 100 meters long. Further study has shown fogs to be
+effective at blocking much of the UV/IR/visible spectrum, effectively masking emitters of such radiation from
+IR weapons.16 This technology would enable a small military unit to avoid detection in the IR spectrum. Fog
+could be generated to quickly, conceal the movement of tanks or infantry, or it could conceal military
+
+                                                               17
+
+
+operations, facilities, or equipment. Such systems may also be useful in inhibiting observations of sensitive
+rear-area operations by electro-optical reconnaissance platforms.17
+
+                                                            Storms
+
+      The desirability to modify storms to support military objectives is the most aggressive and
+controversial type of weather-modification. The damage caused by storms is indeed horrendous. For
+instance, a tropical storm has an energy equal to 10,000 one-megaton hydrogen bombs,18 and in 1992
+Hurricane Andrew totally destroyed Homestead AFB, Florida, caused the evacuation of most military
+aircraft in the southeastern US, and resulted in $15.5 billion of damage.19 However, as one would expect
+based on a storm’s energy level, current scientific literature indicates that there are definite physical limits on
+mankind’s ability to modify storm systems. By taking this into account along with political, environmental,
+economic, legal, and moral considerations, we will confine our analysis of storms to localized thunderstorms
+and thus do not consider major storm systems such as hurricanes or intense low-pressure systems.
+
+      At any instant there are approximately 2,000 thunderstorms taking place. In fact 45,000 thunderstorms,
+which contain heavy rain, hail, microbursts, wind shear, and lightning form daily.20 Anyone who has flown
+frequently on commercial aircraft has probably noticed the extremes that pilots will go to avoid
+thunderstorms. The danger of thunderstorms was clearly shown in August 1985 when a jumbo jet crashed
+killing 137 people after encountering microburst wind shears during a rain squall.21 These forces of nature
+impact all aircraft and even the most advanced fighters of 1996 make every attempt to avoid a thunderstorm.
+
+      Will bad weather remain an aviation hazard in 2025? The answer, unfortunately, is “yes,” but
+projected advances in technology over the next 30 years will diminish the hazard potential. Computer-
+controlled flight systems will be able to “autopilot” aircraft through rapidly changing winds. Aircraft will
+also have highly accurate, onboard sensing systems that can instantaneously “map” and automatically guide
+the aircraft through the safest portion of a storm cell. Aircraft are envisioned to have hardened electronics
+that can withstand the effects of lightning strikes and may also have the capability to generate a surrounding
+electropotential field that will neutralize or repel lightning strikes.
+
+                                                               18
+
+
+      Assuming that the US achieves some or all of the above outlined aircraft technical advances and
+maintains the technological “weather edge” over its potential adversaries, we can next look at how we could
+modify the battlespace weather to make the best use of our technical advantage.
+
+      Weather-modification technologies might involve techniques that would increase latent heat release in
+the atmosphere, provide additional water vapor for cloud cell development, and provide additional surface
+and lower atmospheric heating to increase atmospheric instability. Critical to the success of any attempt to
+trigger a storm cell is the pre-existing atmospheric conditions locally and regionally. The atmosphere must
+already be conditionally unstable and the large-scale dynamics must be supportive of vertical cloud
+development. The focus of the weather-modification effort would be to provide additional “conditions” that
+would make the atmosphere unstable enough to generate cloud and eventually storm cell development. The
+path of storm cells once developed or enhanced is dependent not only on the mesoscale dynamics of the storm
+but the regional and synoptic (global) scale atmospheric wind flow patterns in the area which are currently
+not subject to human control.
+
+      As indicated, the technical hurdles for storm development in support of military operations are
+obviously greater than enhancing precipitation or dispersing fog as described earlier. One area of storm
+research that would significantly benefit military operations is lightning modification. Most research efforts
+are being conducted to develop techniques to lessen the occurrence or hazards associated with lightning.
+This is important research for military operations and resource protection, but some offensive military benefit
+could be obtained by doing research on increasing the potential and intensity of lightning. Concepts to
+explore include increasing the basic efficiency of the thunderstorm, stimulating the triggering mechanism that
+initiates the bolt, and triggering lightning such as that which struck Apollo 12 in 1968.22 Possible
+mechanisms to investigate would be ways to modify the electropotential characteristics over certain targets to
+induce lightning strikes on the desired targets as the storm passes over their location.
+
+      In summary, the ability to modify battlespace weather through storm cell triggering or enhancement
+would allow us to exploit the technological “weather” advances of our 2025 aircraft; this area has
+tremendous potential and should be addressed by future research and concept development programs.
+
+                                                               19
+
+
+                                   Exploitation of “NearSpace” for Space Control
+
+      This section discusses opportunities for control and modification of the ionosphere and near-space
+environment for force enhancement; specifically to enhance our own communications, sensing, and navigation
+capabilities and/or impair those of our enemy. A brief technical description of the ionosphere and its
+importance in current communications systems is provided in appendix A.
+
+      By 2025, it may be possible to modify the ionosphere and near space, creating a variety of potential
+applications, as discussed below. However, before ionospheric modification becomes possible, a number of
+evolutionary advances in space weather forecasting and observation are needed. Many of these needs were
+described in a Spacecast 2020 study, Space Weather Support for Communications.23 Some of the
+suggestions from this study are included in appendix B; it is important to note that our ability to exploit near
+space via active modification is dependent on successfully achieving reliable observation and prediction
+capabilities.
+
+                              Opportunities Afforded by Space Weather-modification
+
+      Modification of the near-space environment is crucial to battlespace dominance. General Charles
+Horner, former commander in chief, United States space command, described his worst nightmare as “seeing
+an entire Marine battalion wiped out on some foreign landing zone because he was unable to deny the enemy
+intelligence and imagery generated from space.”24 Active modification could provide a “technological fix”
+to jam the enemy’s active and passive surveillance and reconnaissance systems. In short, an operational
+capability to modify the near-space environment would ensure space superiority in 2025; this capability
+would allow us to shape and control the battlespace via enhanced communication, sensing, navigation,
+and precision engagement systems.
+
+      While we recognize that technological advances may negate the importance of certain electromagnetic
+frequencies for US aerospace forces in 2025 (such as radio frequency (RF), high-frequency (HF) and very
+high-frequency (VHF) bands), the capabilities described below are nevertheless relevant. Our nonpeer
+
+                                                               20
+
+
+adversaries will most likely still depend on such frequencies for communications, sensing, and navigation
+and would thus be extremely vulnerable to disruption via space weather-modification.
+
+                             Communications Dominance via Ionospheric Modification
+
+      Modification of the ionosphere to enhance or disrupt communications has recently become the subject of
+active research. According to Lewis M. Duncan, and Robert L. Showen, the Former Soviet Union (FSU)
+conducted theoretical and experimental research in this area at a level considerably greater than comparable
+programs in the West.25 There is a strong motivation for this research, because
+
+          induced ionospheric modifications may influence, or even disrupt, the operation of radio
+          systems relying on propagation through the modified region. The controlled generation or
+          accelerated dissipation of ionospheric disturbances may be used to produce new
+          propagation paths, otherwise unavailable, appropriate for selected RF missions.26
+      A number of methods have been explored or proposed to modify the ionosphere, including injection of
+chemical vapors and heating or charging via electromagnetic radiation or particle beams (such as ions,
+neutral particles, x-rays, MeV particles, and energetic electrons).27 It is important to note that many
+techniques to modify the upper atmosphere have been successfully demonstrated experimentally. Ground-
+based modification techniques employed by the FSU include vertical HF heating, oblique HF heating,
+microwave heating, and magnetospheric modification.28 Significant military applications of such operations
+include low frequency (LF) communication production, HF ducted communications, and creation of an
+artificial ionosphere (discussed in detail below). Moreover, developing countries also recognize the benefit
+of ionospheric modification: “in the early 1980’s, Brazil conducted an experiment to modify the ionosphere
+by chemical injection.”29
+      Several high-payoff capabilities that could result from the modification of the ionosphere or near space
+are described briefly below. It should be emphasized that this list is not comprehensive; modification of the
+ionosphere is an area rich with potential applications and there are also likely spin-off applications that have
+yet to be envisioned.
+      Ionospheric mirrors for pinpoint communication or over-the-horizon (OTH) radar transmission.
+The properties and limitations of the ionosphere as a reflecting medium for high-frequency radiation are
+
+                                                               21
+
+
+described in appendix A. The major disadvantage in depending on the ionosphere to reflect radio waves is
+its variability, which is due to normal space weather and events such as solar flares and geomagnetic storms.
+The ionosphere has been described as a crinkled sheet of wax paper whose relative position rises and sinks
+depending on weather conditions. The surface topography of the crinkled paper also constantly changes,
+leading to variability in its reflective, refractive, and transmissive properties.
+
+      Creation of an artificial uniform ionosphere was first proposed by Soviet researcher A. V. Gurevich in
+the mid-1970s. An artificial ionospheric mirror (AIM) would serve as a precise mirror for electromagnetic
+radiation of a selected frequency or a range of frequencies. It would thereby be useful for both pinpoint
+control of friendly communications and interception of enemy transmissions.
+
+      This concept has been described in detail by Paul A. Kossey, et al. in a paper entitled “Artificial
+Ionospheric Mirrors (AIM).”30 The authors describe how one could precisely control the location and height
+of the region of artificially produced ionization using crossed microwave (MW) beams, which produce
+atmospheric breakdown (ionization) of neutral species. The implications of such control are enormous: one
+would no longer be subject to the vagaries of the natural ionosphere but would instead have direct control of
+the propagation environment. Ideally, the AIM could be rapidly created and then would be maintained only
+for a brief operational period. A schematic depicting the crossed-beam approach for generation of an AIM is
+shown in figure 4-1.31
+
+      An AIM could theoretically reflect radio waves with frequencies up to 2 GHz, which is nearly two
+orders of magnitude higher than those waves reflected by the natural ionosphere. The MW radiator power
+requirements for such a system are roughly an order of magnitude greater than 1992 state-of-the-art systems;
+however, by 2025 such a power capability is expected to be easily achievable.
+
+                                                               22
+
+
+NORMAL IONOSPHERIC REFLECTING LAYERS
+                          (100-300 km)
+
+IONIZATION LAYER  30-70 km
+(MIRROR)
+
+INTENSE MW
+BEAMS
+
+                     Source: Microsoft Clipart Gallery © 1995 with courtesy from Microsoft.
+           Figure 4-1. Crossed-Beam Approach for Generating an Artificial Ionospheric Mirror
+      Besides providing pinpoint communication control and potential interception capability, this technology
+would also provide communication capability at specified frequencies, as desired. Figure 4-2 shows how a
+ground-based radiator might generate a series of AIMs, each of which would be tailored to reflect a selected
+transmission frequency. Such an arrangement would greatly expand the available bandwidth for
+communications and also eliminate the problem of interference and crosstalk (by allowing one to use the
+requisite power level).
+
+                  23
+
+
+       Artificial Ionospheric Mirrors
+
+       8 MHz      14 MHz
+
+5 MHz                                  12 MHz
+
+TRANSMISSION  GROUND-BASED             RECEIVER
+STATION       AIM GENERATOR            STATION
+
+Source: Microsoft Clipart Gallery © 1995 with courtesy from Microsoft.
+
+Figure 4-2. Artificial Ionospheric Mirrors Point-to-Point Communications
+
+      Kossey et al. also describe how AIMs could be used to improve the capability of OTH radar:
+
+          AIM based radar could be operated at a frequency chosen to optimize target detection,
+          rather than be limited by prevailing ionospheric conditions. This, combined with the
+          possibility of controlling the radar’s wave polarization to mitigate clutter effects, could
+          result in reliable detection of cruise missiles and other low observable targets.32
+
+      A schematic depicting this concept is shown in figure 4-3. Potential advantages over conventional OTH
+
+radars include frequency control, mitigation of auroral effects, short range operation, and detection of a
+
+smaller cross-section target.
+
+              24
+
+
+       IONOSPHERE
+
+AIM
+
+  OTH              NORMAL
+RADAR              OTH RANGE
+
+        Source: Microsoft Clipart Gallery © 1995 with courtesy from Microsoft.
+Figure 4-3. Artificial Ionospheric Mirror Over-the-Horizon Surveillance Concept.
+
+      Disruption of communications and radar via ionospheric control. A variation of the capability
+proposed above is ionospheric modification to disrupt an enemy’s communication or radar transmissions.
+Because HF communications are controlled directly by the ionosphere’s properties, an artificially created
+ionization region could conceivably disrupt an enemy’s electromagnetic transmissions. Even in the absence
+of an artificial ionization patch, high-frequency modification produces large-scale ionospheric variations
+which alter HF propagation characteristics. The payoff of research aimed at understanding how to control
+these variations could be high as both HF communication enhancement and degradation are possible.
+Offensive interference of this kind would likely be indistinguishable from naturally occurring space weather.
+This capability could also be employed to precisely locate the source of enemy electromagnetic
+transmissions.
+
+      VHF, UHF, and super-high frequency (SHF) satellite communications could be disrupted by creating
+artificial ionospheric scintillation. This phenomenon causes fluctuations in the phase and amplitude of radio
+waves over a very wide band (30 MHz to 30 GHz). HF modification produces electron density irregularities
+that cause scintillation over a wide-range of frequencies. The size of the irregularities determines which
+frequency band will be affected. Understanding how to control the spectrum of the artificial irregularities
+
+       25
+
+
+generated in the HF modification process should be a primary goal of research in this area. Additionally, it
+may be possible to suppress the growth of natural irregularities resulting in reduced levels of natural
+scintillation. Creating artificial scintillation would allow us to disrupt satellite transmissions over selected
+regions. Like the HF disruption described above, such actions would likely be indistinguishable from
+naturally occurring environmental events. Figure 4-4 shows how artificially ionized regions might be used to
+disrupt HF communications via attenuation, scatter, or absorption (fig. 4.4a) or degrade satellite
+communications via scintillation or energy loss (fig. 4-4b) (from Ref. 25).
+
+                                       POTENTIAL TRANSIONOSPHERIC PROBLEMS
+
+POTENTIAL HF PROBLEMS
+
+              ATTENUATION             SCINTILLATION  ENERGY LOSS
+              SCATTER
+                           REGION  km                                                 REGION
+km
+                               F   300                                                    F
+300                            E   100                                                    E
+100 ABSORPTION                 D    50                                                    D
+
+ 50
+
+GROUND                                               GROUND
+
+(a) (b)
+
+              Source: Microsoft Clipart Gallery © 1995 with courtesy from Microsoft.
+                     Figure 4-4. Scenarios for Telecommunications Degradation
+
+      Exploding/disabling space assets traversing near-space. The ionosphere could potentially be
+artificially charged or injected with radiation at a certain point so that it becomes inhospitable to satellites or
+other space structures. The result could range from temporarily disabling the target to its complete
+destruction via an induced explosion. Of course, effectively employing such a capability depends on the
+ability to apply it selectively to chosen regions in space.
+
+      Charging space assets by near-space energy transfer. In contrast to the injurious capability described
+above, regions of the ionosphere could potentially be modified or used as-is to revitalize space assets, for
+instance by charging their power systems. The natural charge of the ionosphere may serve to provide most or
+all of the energy input to the satellite. There have been a number of papers in the last decade on electrical
+
+                                   26
+
+
+charging of space vehicles; however, according to one author, “in spite of the significant effort made in the
+field both theoretically and experimentally, the vehicle charging problem is far from being completely
+understood.”33 While the technical challenge is considerable, the potential to harness electrostatic energy to
+fuel the satellite’s power cells would have a high payoff, enabling service life extension of space assets at a
+relatively low cost. Additionally, exploiting the capability of powerful HF radio waves to accelerate
+electrons to relatively high energies may also facilitate the degradation of enemy space assets through
+directed bombardment with the HF-induced electron beams. As with artificial HF communication
+disruptions and induced scintillation, the degradation of enemy spacecraft with such techniques would be
+effectively indistinguishable from natural environment effects. The investigation and optimization of HF
+acceleration mechanisms for both friendly and hostile purposes is an important area for future research
+efforts.
+
+                                                     Artificial Weather
+
+      While most weather-modification efforts rely on the existence of certain preexisting conditions, it may
+be possible to produce some weather effects artificially, regardless of preexisting conditions. For instance,
+virtual weather could be created by influencing the weather information received by an end user. Their
+perception of parameter values or images from global or local meteorological information systems would
+differ from reality. This difference in perception would lead the end user to make degraded operational
+decisions.
+
+      Nanotechnology also offers possibilities for creating simulated weather. A cloud, or several clouds, of
+microscopic computer particles, all communicating with each other and with a larger control system could
+provide tremendous capability. Interconnected, atmospherically buoyant, and having navigation capability in
+three dimensions, such clouds could be designed to have a wide-range of properties. They might exclusively
+block optical sensors or could adjust to become impermeable to other surveillance methods. They could also
+provide an atmospheric electrical potential difference, which otherwise might not exist, to achieve precisely
+aimed and timed lightning strikes. Even if power levels achieved were insufficient to be an effective strike
+weapon, the potential for psychological operations in many situations could be fantastic.
+
+                                                               27
+
+
+      One major advantage of using simulated weather to achieve a desired effect is that unlike other
+approaches, it makes what are otherwise the results of deliberate actions appear to be the consequences of
+natural weather phenomena. In addition, it is potentially relatively inexpensive to do. According to J. Storrs
+Hall, a scientist at Rutgers University conducting research on nanotechnology, production costs of these
+nanoparticles could be about the same price per pound as potatoes.34 This of course discounts research and
+development costs, which will be primarily borne by the private sector and be considered a sunk cost by
+2025 and probably earlier.
+
+                                            Concept of Operations Summary
+
+      Weather affects everything we do, and weather-modification can enhance our ability to dominate the
+aerospace environment. It gives the commander tools to shape the battlespace. It gives the logistician tools
+to optimize the process. It gives the warriors in the cockpit an operating environment literally crafted to their
+needs. Some of the potential capabilities a weather-modification system could provide to a war-fighting
+CINC are summarized in table 1, of the executive summary).
+
+                                                             Notes
+
+      1 A pilot program known as Project Popeye conducted in 1966 attempted to extend the monsoon season
+in order to increase the amount of mud on the Ho Chi Minh trail thereby reducing enemy movements. A silver
+iodide nuclei agent was dispersed from WC-130, F4 and A-1E aircraft into the clouds over portions of the
+trail winding from North Vietnam through Laos and Cambodia into South Vietnam. Positive results during
+this initial program led to continued operations from 1967 to 1972. While the effects of this program remain
+disputed, some scientists believe it resulted in a significant reduction in the enemy’s ability to bring supplies
+into South Vietnam along the trail. E. M. Frisby, “Weather-modification in Southeast Asia, 1966–1972,” The
+Journal of Weather-modification 14, no. 1 (April 1982): 1—3.
+
+      2 William M. Gray et al., “Weather-modification by Carbon Dust Absorption of Solar Energy,” Journal
+of Applied Meteorology 15 (April 1976): 355.
+
+      3 Ibid.
+      4 Ibid.
+      5 Ibid., 367.
+      6 AWS PLAN 813 Appendix I Annex Alfa (Scott AFB, Ill.: Air Weather Service/(MAC) 14 January
+1972), 11. Hereafter cited as Annex Alfa.
+      7 Capt Frank G. Coons, “Warm Fog Dispersal—A Different Story,” Aerospace Safety 25, no. 10
+(October 1969): 16.
+      8 Annex Alfa, 14.
+
+                                                               28
+
+
+9 Warren C. Kocmond, “Dissipation of Natural Fog in the Atmosphere,” Progress of NASA Research
+
+on Warm Fog Properties and Modification Concepts, NASA SP-212 (Washington, D.C.: Scientific and
+
+Technical Information Division of the Office of Technology Utilization of the National Aeronautics and
+
+Space Administration, 1969), 74.
+      10 James E. Jiusto, “Some Principles of Fog Modification with Hygrosopic Nuclei,” Progress of NASA
+
+Research on Warm Fog Properties and Modification Concepts, NASA SP-212 (Washington, D.C.:
+
+Scientific and Technical Information Division of the Office of Technology Utilization of the National
+
+Aeronautics and Space Administration, 1969), 37.
+      11 Maj Roy Dwyer, Category III or Fog Dispersal, M-U 35582-7 D993a c.1 (Maxwell AFB, Ala.: Air
+
+University Press, May 1972), 51.
+      12 James McLare, Pulp & Paper 68, no. 8 (August 1994): 79.
+      13 Milton M. Klein, A Feasibility Study of the Use of Radiant Energy for Fog Dispersal, Abstract
+
+(Hanscom AFB, Mass.: Air Force Material Command, October 1978).
+      14 Edward M. Tomlinson, Kenneth C. Young, and Duane D. Smith, Laser Technology Applications for
+
+Dissipation of Warm Fog at Airfields, PL-TR-92-2087 (Hanscom AFB, Mass.: Air Force Material
+
+Command, 1992).
+      15 J. Storrs Hall, “Overview of Nanotechnology,” adapted from papers by Ralph C. Merkle and K. Eric
+
+Drexler, Internet address: http://nanotech.rutgers.edu/nanotech-/intro.html, Rutgers University, November
+
+1995.
+      16 Robert A. Sutherland, “Results of Man-Made Fog Experiment,” Proceedings of the 1991 Battlefield
+
+Atmospherics Conference (Fort Bliss, Tex.: Hinman Hall, 3–6 December 1991).
+      17 Christopher Centner et al., “Environmental Warfare: Implications for Policymakers and War
+
+Planners” (Maxwell AFB, Ala.: Air Command and Staff College, May 1995), 39.                       D.C.:
+      18 Louis J. Battan, Harvesting the Clouds (Garden City, N.Y.: Doubleday & Co., 1960), 120.
+      19 Facts on File 55, no. 2866 (2 November 95).
+      20 Gene S. Stuart, “Whirlwinds and Thunderbolts,” Nature on the Rampage (Washington,
+
+National Geographic Society, 1986), 130.
+      21 Ibid., 140.
+      22 Heinz W. Kasemir, “Lightning Suppression by Chaff Seeding and Triggered Lightning,” in Wilmot
+
+N. Hess, ed., Weather and Climate Modification (New York: John Wiley & Sons, 1974), 623–628.
+      23 SPACECAST 2020, Space Weather Support for Communications, white paper G, (Maxwell AFB,
+
+Ala.: Air War College/2020, 1994).
+      24 Gen Charles Horner, “Space Seen as Challenge, Military’s Final Frontier,” Defense Issues,
+
+(Prepared Statement to the Senate Armed Services Committee), 22 April 1993, 7.
+      25 Lewis M. Duncan and Robert L. Showen, “Review of Soviet Ionospheric Modification Research,” in
+
+Ionospheric Modification and Its Potential to Enhance or Degrade the Performance of Military
+
+Systems,(AGARD Conference Proceedings 485, October, 1990), 2-1.
+      26 Ibid.
+      27 Peter M. Banks, “Overview of Ionospheric Modification from Space Platforms,” in Ionospheric
+
+Modification and Its Potential to Enhance or Degrade the Performance of Military Systems (AGARD
+
+Conference Proceedings 485, October 1990) 19-1.
+      28 Capt Mike Johnson, Upper Atmospheric Research and Modification—Former Soviet Union (U),
+
+DST-18205-475-92 (Foreign Aerospace Science and Technology Center, AF Intelligence Command, 24
+
+September 1992), 3. (Secret) Information extracted is unclassified.
+      29 Capt Edward E. Hume, Jr., Atmospheric and Space Environmental Research Programs in Brazil
+
+(U) (Foreign Aerospace Science and Technology Center, AF Intelligence Command, March 1993), 12.
+
+(Secret) Information extracted is unclassified.
+
+                                                 29
+
+
+      30 Paul A. Kossey et al. “Artificial Ionospheric Mirrors (AIM),” in Ionospheric Modification and Its
+Potential to Enhance or Degrade the Performance of Military Systems (AGARD Conference Proceedings
+485, October 1990), 17A-1.
+
+      31 Ibid., 17A-7.
+      32 Ibid., 17A-10.
+      33 B. N. Maehlum and J. Troim, “Vehicle Charging in Low Density Plasmas,” in Ionospheric
+Modification and Its Potential to Enhance or Degrade the Performance of Military Systems (AGARD
+Conference Proceedings 485, October 1990), 24-1.
+      34 Hall.
+
+                                                               30
+
+
+                                       Chapter 5
+
+                          Investigation Recommendations
+
+                                          How Do We Get There From Here?
+       To fully appreciate the development of the specific operational capabilities weather-modification
+could deliver to the war fighter, we must examine and understand their relationship to associated core
+competencies and the development of their requisite technologies. Figure 5-1 combines the specific
+operational capabilities of Table 1 into six core capabilities and depicts their relative importance over time.
+For example, fog and cloud modification are currently important and will remain so for some time to come to
+conceal our assets from surveillance or improve landing visibility at airfields. However, as surveillance
+assets become less optically dependent and aircraft achieve a truly global all-weather landing capability, fog
+and cloud modification applications become less important.
+      In contrast, artificial weather technologies do not currently exist. But as they are developed, the
+importance of their potential applications rises rapidly. For example, the anticipated proliferation of
+surveillance technologies in the future will make the ability to deny surveillance increasingly valuable. In
+such an environment, clouds made of smart particles such as described in chapter 4 could provide a premium
+capability.
+
+                                                               31
+
+
+HIGH
+
+I     (F&C)M
+m
+
+p
+
+o
+
+r SWM
+
+t
+
+a CW
+
+n
+
+c PM
+
+e
+
+      SM
+
+         AW   2005                                   2015                      2025
+
+LOW
+
+     Now
+
+                                         Time
+
+                                         Legend
+
+PM           Precipitation Modification          (F&C)M    Fog and Cloud Modification
+SM                                                         Counter Weather
+SWM          Storm Modification                  CW        Artificial Weather
+
+             Space Weather-modification          AW
+
+      Figure 5-1. A Core Competency Road Map to Weather Modification in 2025.
+
+      Even today’s most technologically advanced militaries would usually prefer to fight in clear weather
+and blue skies. But as war-fighting technologies proliferate, the side with the technological advantage will
+prefer to fight in weather that gives them an edge. The US Army has already alluded to this approach in their
+concept of “owning the weather.”1 Accordingly, storm modification will become more valuable over time.
+The importance of precipitation modification is also likely to increase as usable water sources become more
+scarce in volatile parts of the world.
+
+      As more countries pursue, develop, and exploit increasing types and degrees of weather-modification
+technologies, we must be able to detect their efforts and counter their activities when necessary. As
+depicted, the technologies and capabilities associated with such a counter weather role will become
+increasingly important.
+
+                                         32
+
+
+      The importance of space weather-modification will grow with time. Its rise will be more rapid at first
+as the technologies it can best support or negate proliferate at their fastest rates. Later, as those technologies
+mature or become obsolete, the importance of space weather-modification will continue to rise but not as
+rapidly.
+
+      To achieve the core capabilities depicted in figure 5-1, the necessary technologies and systems might be
+developed according to the process depicted in figure 5-2. This figure illustrates the systems development
+timing and sequence necessary to realize a weather-modification capability for the battlespace by 2025. The
+horizontal axis represents time. The vertical axis indicates the degree to which a given technology will be
+applied toward weather-modification. As the primary users, the military will be the main developer for the
+technologies designated with an asterisk. The civil sector will be the main source for the remaining
+technologies.
+
+                                                               33
+
+
+A
+
+p
+p GWN
+
+l                                                                *VR WX
+                                                     *WFSE
+i SENSORS
+
+c  COMP MOD
+a
+
+t  COMM
+i
+
+o
+
+n
+
+t CHEM
+o ADV
+
+W                            *CBD                    2015             2025
+                             2005
+X *DE
+
+M *AIM
+o SC
+
+d
+
+       Now
+
+                                          Time
+
+                             Legend
+
+ADV       Aerospace Delivery Vehicles         DE     Directed Energy
+AIM
+CHEM      Artificial Ionospheric Mirrors      GWN    Global Weather Network
+CBD
+COMM      Chemicals                           SC Smart Clouds (nanotechnology)
+COMP MOD
+          Carbon Black Dust                   SENSORS Sensors
+
+          Communications                      VR WX  Virtual Weather
+
+          Computer Modeling                   WFSE   Weather Force Support Element
+
+                     * Technologies to be developed by DOD
+
+   Figure 5-2. A Systems Development Road Map to Weather Modification in 2025.
+
+                             Conclusions
+
+      The world’s finite resources and continued needs will drive the desire to protect people and property
+and more efficiently use our crop lands, forests, and range lands. The ability to modify the weather may be
+desirable both for economic and defense reasons. The global weather system has been described as a series
+of spheres or bubbles. Pushing down on one causes another to pop up.2 We need to know when another
+power “pushes” on a sphere in their region, and how that will affect either our own territory or areas of
+economic and political interest to the US.
+
+                                          34
+
+
+      Efforts are already under way to create more comprehensive weather models primarily to improve
+forecasts, but researchers are also trying to influence the results of these models by adding small amounts of
+energy at just the right time and space. These programs are extremely limited at the moment and are not yet
+validated, but there is great potential to improve them in the next 30 years.3
+
+      The lessons of history indicate a real weather-modification capability will eventually exist despite the
+risk. The drive exists. People have always wanted to control the weather and their desire will compel them
+to collectively and continuously pursue their goal. The motivation exists. The potential benefits and power
+are extremely lucrative and alluring for those who have the resources to develop it. This combination of
+drive, motivation, and resources will eventually produce the technology. History also teaches that we cannot
+afford to be without a weather-modification capability once the technology is developed and used by others.
+Even if we have no intention of using it, others will. To call upon the atomic weapon analogy again, we need
+to be able to deter or counter their capability with our own. Therefore, the weather and intelligence
+communities must keep abreast of the actions of others.
+
+      As the preceding chapters have shown, weather-modification is a force multiplier with tremendous
+power that could be exploited across the full spectrum of war-fighting environments. From enhancing
+friendly operations or disrupting those of the enemy via small-scale tailoring of natural weather patterns to
+complete dominance of global communications and counter-space control, weather-modification offers the
+war fighter a wide-range of possible options to defeat or coerce an adversary. But, while offensive weather-
+modification efforts would certainly be undertaken by US forces with great caution and trepidation, it is clear
+that we cannot afford to allow an adversary to obtain an exclusive weather-modification capability.
+
+                                                             Notes
+
+      1 Mary Ann Seagraves and Richard Szymber, “Weather a Force Multiplier,” Military Review,
+November/December 1995, 69.
+
+      2 Daniel S. Halacy, The Weather Changers (New York: Harper & Row, 1968), 202.
+      3 William Brown, “Mathematicians Learn How to Tame Chaos,” New Scientist, 30 May 1992, 16.
+
+                                                               35
+
+
+                                      Appendix A
+
+                        Why Is the Ionosphere Important?
+
+      The ionosphere is the part of the earth’s atmosphere beginning at an altitude of about 30 miles and
+extending outward 1,200 miles or more. This region consists of layers of free electrically charged particles
+that transmit, refract, and reflect radio waves, allowing those waves to be transmitted great distances around
+the earth. The interaction of the ionosphere on impinging electromagnetic radiation depends on the properties
+of the ionospheric layer, the geometry of transmission, and the frequency of the radiation. For any given
+signal path through the atmosphere, a range of workable frequency bands exists. This range, between the
+maximum usable frequency (MUF) and the lowest usable frequency (LUF), is where radio waves are
+reflected and refracted by the ionosphere much as a partial mirror may reflect or refract visible light.1 The
+reflective and refractive properties of the ionosphere provide a means to transmit radio signals beyond direct
+“line-of-sight” transmission between a transmitter and receiver. Ionospheric reflection and refraction has
+therefore been used almost exclusively for long-range HF (from 3 to 30 MHz) communications. Radio waves
+with frequencies ranging from above 30 MHz to 300 GHz are usually used for communications requiring
+line-of-sight transmissions, such as satellite communications. At these higher frequencies, radio waves
+propagate through the ionosphere with only a small fraction of the wave scattering back in a pattern
+analogous to a sky wave. Communicators receive significant benefit from using these frequencies since they
+provide considerably greater bandwidths and thus have greater data-carrying capacity; they are also less
+prone to natural interference (noise).
+
+      Although the ionosphere acts as a natural “mirror” for HF radio waves, it is in a constant state of flux,
+and thus, its “mirror property” can be limited at times. Like terrestrial weather, ionospheric properties
+
+                                                               36
+
+
+change from year to year, from day to day, and even from hour to hour. This ionospheric variability, called
+space weather, can cause unreliability in ground- and space-based communications that depend on
+ionospheric reflection or transmission. Space weather variability affects how the ionosphere attenuates,
+absorbs, reflects, refracts, and changes the propagation, phase, and amplitude characteristics of radio waves.
+These weather dependent changes may arise from certain space weather conditions such as: (1) variability of
+solar radiation entering the upper atmosphere; (2) the solar plasma entering the earth’s magnetic field; (3) the
+gravitational atmospheric tides produced by the sun and moon; and (4) the vertical swelling of the
+atmosphere due to daytime heating of the sun.2 Space weather is also significantly affected by solar flare
+activity, the tilt of the earth’s geomagnetic field, and abrupt ionospheric changes resulting from events such as
+geomagnetic storms.
+
+      In summary, the ionosphere’s inherent reflectivity is a natural gift that humans have used to create long-
+range communications connecting distant points on the globe. However, natural variability in the ionosphere
+reduces the reliability of our communication systems that depend on ionospheric reflection and refraction
+(primarily HF). For the most part, higher frequency communications such as UHF, SHF, and EHF bands are
+transmitted through the ionosphere without distortion. However, these bands are also subject to degradation
+caused by ionospheric scintillation, a phenomenon induced by abrupt variations in electron density along the
+signal path, resulting in signal fade caused by rapid signal path variations and defocusing of the signal’s
+amplitude and/or phase.
+
+      Understanding and predicting ionospheric variability and its influence on the transmission and reflection
+of electromagnetic radiation has been a much studied field of scientific inquiry. Improving our ability to
+observe, model, and forecast space weather will substantially improve our communication systems, both
+ground and space-based. Considerable work is being conducted, both within the DOD and the commercial
+sector, on improving observation, modeling, and forecasting of space weather. While considerable technical
+challenges remain, we assume for the purposes of this study that dramatic improvements will occur in these
+areas over the next several decades.
+
+                                                               37
+
+
+      1 AU-18, Space Handbook, An Analyst’s Guide Vol. II. (Maxwell AFB, Ala.: Air University Press,
+December 1993), 196.
+
+      2 Thomas F. Tascione, Introduction to the Space Environment (Colorado Springs: USAF Academy
+Department of Physics, 1984), 175.
+
+                                                               38
+
+
+                                      Appendix B
+
+      Research to Better Understand and Predict Ionospheric Effects
+
+      According to a SPACECAST 2020 study titled, “Space Weather Support for Communications,” the
+major factors limiting our ability to observe and accurately forecast space weather are (1) current
+ionospheric sensing capability; (2) density and frequency of ionospheric observations; (3) sophistication and
+accuracy of ionospheric models; and (4) current scientific understanding of the physics of ionosphere-
+thermosphere-magnetosphere coupling mechanisms.1 The report recommends that improvements be realized
+in our ability to measure the ionosphere vertically and spatially; to this end an architecture for ionospheric
+mapping was proposed. Such a system would consist of ionospheric sounders and other sensing devices
+installed on DoD and commercial satellite constellations (taking advantage in particular of the proposed
+IRIDIUM system and replenishment of the GPS) and an expanded ground-based network of ionospheric
+vertical sounders in the US and other nations. Understanding and predicting ionospheric scintillation would
+also require launching of an equatorial remote sensing satellite in addition to the currently planned or
+deployed DOD and commercial constellations.
+
+      The payoff of such a system is an improvement in ionospheric forecasting accuracy from the current
+range of 40-60 percent to an anticipated 80-100 percent accuracy. Daily worldwide ionospheric mapping
+would provide the data required to accurately forecast diurnal, worldwide terrestrial propagation
+characteristics of electromagnetic energy from 3-300 MHz. This improved forecasting would assist satellite
+operators and users, resulting in enhanced operational efficiency of space systems. It would also provide an
+order of magnitude improvement in locating the sources of tactical radio communications, allowing for
+location and tracking of enemy and friendly platforms.2 Improved capability to forecast ionospheric
+
+                                                               39
+
+
+scintillation would provide a means to improve communications reliability by the use of alternate ray paths
+or relay to undisturbed regions. It would also enable operational users to ascertain whether outages were
+due to naturally occurring ionospheric variability as opposed to enemy action or hardware problems.
+
+      These advances in ionospheric observation, modeling, and prediction would enhance the reliability and
+robustness of our military communications network. In addition to their significant benefits for our existing
+communications network, such advances are also requisite to further exploitation of the ionosphere via active
+modification.
+
+                                                             Notes
+      1 SPACECAST 2020, Space Weather Support for Communications, white paper G, (Maxwell AFB,
+Ala.: Air War College/2020, 1994).
+      2 Referenced in ibid.
+
+                                                               40
+
+
+            Appendix C
+
+            Acronyms and Definitions
+
+AOC         air operations center
+AOR         area of responsibility
+ATO         air tasking order
+EHF         extra high frequency
+GWN         global weather network
+HF          high frequency
+IR          infared
+LF          low frequency
+LUF         lowest usable frequency
+Mesoscale   less than 200 km2
+Microscale  immediate local area
+MUF         maximum usable frequency
+MW          microwave
+OTH         over-the-horizon
+PGM         precision-guided munitions
+RF          radio frequency
+SAR         synthetic aperture radar
+SARSAT      search and rescue satellite-aided tracking
+SHF         super high frequency
+SPOT        satellite positioning and tracking
+UAV         uninhabited aerospace vehicle
+UV          ultraviolet
+VHF         very high frequency
+WFS         weather force specialist
+WFSE        weather force support element
+WX          weather
+
+            41
+
+
+                                      Bibliography
+
+Appleman, Herbert S. An Introduction to Weather-modification. Scott AFB, Ill.: Air Weather Service
+      (MAC), September 1969.
+
+AU-18, Space Handbook, An Analyst’s Guide Vol. II. Maxwell AFB, Ala.: Air University Press, December
+      1993.
+
+AWS PLAN 813, Appendix I, Annex Alfa. Scott AFB, Ill.: Air Weather Service (MAC), 14 January 1972.
+Banks, Peter M. “Overview of Ionospheric Modification from Space Platforms.” In Ionospheric
+
+      Modification and Its Potential to Enhance or Degrade the Performance of Military Systems,
+      AGARD Conference Proceedings 485, October 1990.
+Batton, Louis J. Harvesting the Clouds. Garden City, N.Y.: Doubleday & Co., 1969.
+Brown, William. “Mathematicians Learn How to Tame Chaos.” New Scientist, 30 May 1992.
+Byers, Horace R. “History of Weather-modification.” In Wilmot N. Hess, ed., Weather and Climate
+      Modification. New York: John Wiley & Sons, 1974.
+Centner, Christopher, et al., “Environmental Warfare: Implications for Policymakers and War Planners.”
+      Maxwell AFB, Ala.: Air Command and Staff College, May 1995.
+Coons, Capt Frank G. “Warm Fog Dispersal—A Different Story.” Aerospace Safety 25, no. 10 (October
+      1969).
+CJCSI 3810.01, Meteorological and Oceanographic Operations, 10 January 1995.
+Dawson, George. “An Introduction to Atmospheric Energy.” In Wilmot N. Hess, ed., Weather and Climate
+      Modification. New York: John Wiley & Sons, 1974.
+Duncan, Lewis M., and Robert L. Showen “Review of Soviet Ionospheric Modification Research.” In
+      Ionospheric Modification and Its Potential to Enhance or Degrade the Performance of Military
+      Systems AGARD Conference Proceedings 485, October 1990.
+Dwyer, Maj Roy. Category III or Fog Dispersal, M-U 35582-7 D993a. Maxwell AFB, Ala.: Air
+      University Press, May 1972.
+Eisenhower, Dwight E. “Crusade in Europe” quoted in John F. Fuller, ed., Thor’s Legions. Boston:
+      American Meterology Society, 1990.
+Facts on File 55, No. 2866 (2 November 1995).
+Frisby, E. M. “Weather-modification in Southeast Asia, 1966–1972.” The Journal Of Weather-
+      modification 14, no. 1 (April 1982).
+Frisby, E. M. “Weather-modification in Southeast Asia, 1966-1972.” Journal of Applied Meteorology 15
+      (April 1976).
+Gray, William M., et al. “Weather-modification by Carbon Dust Absorption of Solar Energy.” Journal of
+      Applied Meteorology 15, (April 1976).
+Halacy, Daniel S. The Weather Changers. New York: Harper & Row, 1968.
+
+                                                               42
+
+
+Hall, J. Storrs. “Overview of Nanotechnology” Adapted from papers by Ralph C. Merkle and K. Eric
+      Drexler. Internet address: http://nanotech.rutgers.edu/nanotech/-intro.html (Rutgers University,
+      November 1995).
+
+Horner, Gen Charles. “Space Seen as Challenge, Military’s Final Frontier” (Prepared Statement to the Senate
+      Armed Services Committee) Defense Issues, 22 April 1993.
+
+Hume, Capt Edward E., Jr. Atmospheric and Space Environmental Research Programs in Brazil (U), March
+      1993. Foreign Aerospace Science and Technology Center, AF Intelligence Command, 24 September
+      1992. (Secret) Information extracted is unclassified.
+
+James, G. E. “Chaos Theory: The Essentials for Military Applications” ACSC Theater Air Campaign
+      Studies Coursebook, AY96, Vol. 8. Maxwell AFB, Ala.: Air University Press, 1995.
+
+Jiusto, James E. “Some Principles of Fog Modification with Hygroscopic Nuclei” Progress of NASA
+      Research on Warm Fog Properties and Modification Concepts, NASA SP-212. Washington, D.C.:
+      Scientific and Technical Information Division of the Office of Technology Utilization of the National
+      Aeronautics and Space Administration, 1969.
+
+Johnson, Capt Mike. Upper Atmospheric Research and Modification—Former Soviet Union (U) supporting
+      document DST-18205-475-92, Foreign Aerospace Science and Technology Center, AF Intelligence
+      Command, 24 September 1992. (Secret) Information extracted is unclassified.
+
+Kasemir, Heinz W. “Lightning Suppression by Chaff Seeding and Triggered Lightning.” In Wilmot N. Hess,
+      ed., Weather and Climate Modification. New York: John Wiley & Sons, 1974.
+
+Keaney, Thomas A., and Eliot A. Cohen, Gulf War Air Power Survey Summary Report. Washington D.C.:
+      GPO, 1993.
+
+Klein, Milton M. A Feasibility Study of the Use of Radiant Energy for Fog Dispersal Abstract. Hanscom
+      AFB, Mass.: Air Force Material Command, October 1978.
+
+Kocmond, Warren C. “Dissipation of Natural Fog in the Atmosphere,” Progress of NASA Research on
+      Warm Fog Properties and Modification Concepts, NASA SP-212. Washington, D.C.: Scientific and
+      Technical Information Division of the Office of Technology Utilization of the National Aeronautics and
+      Space Administration, 1969.
+
+Kossey, Paul A., et al. “Artificial Ionospheric Mirrors (AIM) A. Concept and Issues,” In Ionospheric
+      Modification and its Potential to Enhance or Degrade the Performance of Military Systems,
+      AGARD Conference Proceedings 485, October 1990.
+
+Maehlum, B. N., and J. Troim, “Vehicle Charging in Low Density Plasmas” In Ionospheric Modification
+      and Its Potential to Enhance or Degrade the Performance of Military Systems AGARD Conference
+      Proceedings 485, October 1990.
+
+McLare, James. Pulp & Paper 68, no. 8, August 1994.
+
+Meyer, William B. “The Life and Times of US Weather: What Can We Do About It?” American Heritage
+      37, no. 4 (June/July 1986).
+
+Petersen, Rear Adm Sigmund. “NOAA Moves Toward The 21st Century.” The Military Engineer 20, no.
+      571 (June-July 1995).
+
+Riley, Lt Col Gerald F. Staff Weather Officer to CENTCOM OIC of CENTAF Weather Support Force and
+      Commander of 3d Weather Squadron. In “Desert Shield/Desert Storm Interview Series,” interviewed
+      by Dr William E. Narwyn, AWS Historian, 29 May 1991.
+
+Seagraves, Mary Ann, and Richard Szymber “Weather a Force Multiplier.” Military Review,
+      November/December 1995.
+
+SPACECAST 2020. Space Weather Support for Communications White paper G. Maxwell AFB, Ala.: Air
+      War College/2020, 1994.
+
+                                                               43
+
+
+Stuart, Gene S. “Whirlwinds and Thunderbolts,” In Nature on the Rampage. Washington D.C.: National
+      Geographic Society, 1986.
+
+Sullivan, Gen Gordon R. “Moving into the 21st Century: America’s Army and Modernization” Military
+      Review. July 1993. Quoted in Mary Ann Seagraves and Richard Szymber “Weather a Force Multiplier”
+      Military Review, November/December 1995.
+
+Sutherland, Robert A. “Results of Man-Made Fog Experiment,” In Proceedings of the 1991 Battlefield
+      Atmospherics Conference. Fort Bliss, Tex.: Hinman Hall, 3–6 December 1991.
+
+Tascione, Thomas F. Introduction to the Space Environment. Colorado Springs: USAF Academy
+      Department of Physics, 1984.Tomlinson, Edward M., Kenneth C. Young, and Duane D. Smith Laser
+      Technology Applications for Dissipation of Warm Fog at Airfields, PL-TR-92-2087. Hanscom AFB,
+      Mass.: Air Force Materiel Command, 1992.
+
+USAF Scientific Advisory Board. New World Vistas: Air and Space Power for the 21st Century, Summary
+      Volume. Washington, D.C.: USAF Scientific Advisory Board, 15 December 1995.
+
+US Department of State. The Department of State Bulletin 76, no. 1981 (13 June 1977.
+
+                                                               44
