@@ -35,4 +35,20 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
         * http://www.educationuk.org/usa/articles/weather-and-seasons/
     * Procedencia (hasta 2015):
         * https://files.datapress.com/london/dataset/number-international-visitors-london/2016-07-25T10:33:39/international-visitors-london-raw.csv
-        * http://files.londonandpartners.com/l-and-p/assets/our-insight-london-tourism-review-2014-15.pdf 
+        * http://files.londonandpartners.com/l-and-p/assets/our-insight-london-tourism-review-2014-15.pdf
+* Nueva York
+    * Lugares:
+        * http://www.gocapetravel.com/resources/Top10GuidetoNewYorkCity.pdf
+        * http://guides.tripomatic.com/download/tripomatic-free-city-guide-new-york-city.pdf
+        * http://expediablog.co.uk/Expedia-New-York-Pocket-Guide.pdf
+        * http://uk.complex.com/pop-culture/2013/06/best-summer-dates-in-nyc/fire-guns-at-west-side-rifle-and-pistol-range-and-shoot-mezcal-preferably-in-that-order
+        * http://www.americaasyoulikeit.com/Public/Assets/User/files/brochures/AAYLI%20NY%20State%20brochure%20WEB.pdf
+    * Fechas:
+        * http://broadway.showtickets.com/articles/best-time-to-visit-nyc/
+        * www.usconsulate.org.hk/pas/kids/celebrat.pdf
+    * Clima:
+        * https://business.weather.com/writable/documents/Retail/Holiday-eBook-print_FINAL.pdf
+        * http://csat.au.af.mil/2025/volume3/vol3ch15.pdf
+    * Procedencia
+        * http://www.nytimes.com/2016/03/09/nyregion/record-number-of-tourists-visited-new-york-city-in-2015-and-more-are-expected-this-year.html
+        * http://www.reuters.com/article/us-usa-newyork-tourism-idUSKBN0L61XM20150202
