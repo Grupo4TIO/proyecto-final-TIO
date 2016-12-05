@@ -59,7 +59,7 @@ Fechas a que se refiere??
         * http://uk.complex.com/pop-culture/2013/06/best-summer-dates-in-nyc/fire-guns-at-west-side-rifle-and-pistol-range-and-shoot-mezcal-preferably-in-that-order
         * http://www.americaasyoulikeit.com/Public/Assets/User/files/brochures/AAYLI%20NY%20State%20brochure%20WEB.pdf
     * Fechas:
-        * raul luego haz este ----->>> http://broadway.showtickets.com/articles/best-time-to-visit-nyc/
+        * http://broadway.showtickets.com/articles/best-time-to-visit-nyc/
         * www.usconsulate.org.hk/pas/kids/celebrat.pdf
     * Clima:
         * https://business.weather.com/writable/documents/Retail/Holiday-eBook-print_FINAL.pdf
