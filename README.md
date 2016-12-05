@@ -68,7 +68,6 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
         * http://www.divulgameteo.es/uploads/Caracter%C3%ADsticas-clima-Canarias.pdf
         * http://www.elmejorclimadelmundo.com/files/informedelauniversidaddelalaguna.pdf
         * http://editorial.dca.ulpgc.es/ftp/icaro/Anexos/2-%20CALOR/2-Clima/C.6.2-1%20Islas%20Canarias-Rasgos%20climaticos%20generales-INM.pdf
-
     * Procedencias: 
         * http://www.ccelpa.org/informe-anual/IA2013/2013/09-2013.pdf
         * http://www.webtenerife.com/es/investigacion/situacion-turistica/informes-situacion-turistica/documents/balance%20de%20situaci%C3%B3n%20tur%C3%ADstica%202015.pdf
