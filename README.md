@@ -76,3 +76,10 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
 
 ## Procesamiento de los datos y transformaciones
 Todos los ficheros PDF y artículos web se han transformado a texto plano para su manipulación dentro de R. Para ello hemos usado distintas herramientas, como [PDF to TXT](http://pdftotext.com/es/) o [pdftotext](http://www.tutorialspoint.com/unix_commands/pdftotext.htm) para la conversión a PDF. Para extrar la información de sitios web se han convertido las páginas a PDF y luego se ha extraído.
+
+## Resultados
+
+## Diagrama de Grantt del desarrollo del proyecto
+
+## Propuesta de modelo de negocio para el desarrollo
+La propuesta que seguimos con esta aplicación es la de obtener los datos con respecto al turimo de ciertas ciudades para enviarlos a diferentes touroperadoras y así poder realizar diferentes campañas de atracción de turistas. Con estos datos, se pueden realizar comparaciones entre los países competidores, realizar ofertas para los turistas más potenciales, mejorar la llegada de turistas no tan destacados, etc.
