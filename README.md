@@ -62,6 +62,7 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
         * http://www.reservoirbirds.com/TripReports/RBTR_000002.pdf
     * Fechas:
         * http://www.spain-tenerife.com/es/descubrir/info-de-viaje/cuando-ir.html
+        * http://www.spain-grancanaria.com/es/descubrir/info-de-viaje/cuando-ir.html
     * Clima:
         * http://www.gobiernodecanarias.org/educacion/general/gestorglobal/DocsUp/parrafos/5324UD%202%20-%20Clima%20y%20vegetaci%C3%B3n%20de%20Canarias.pdf
         * http://www.elmejorclimadelmundo.com/files/estudioenelanuariodeestudiosatlanticos.pdf
