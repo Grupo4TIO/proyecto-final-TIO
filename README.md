@@ -52,3 +52,27 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
     * Procedencia
         * http://www.nytimes.com/2016/03/09/nyregion/record-number-of-tourists-visited-new-york-city-in-2015-and-more-are-expected-this-year.html
         * http://www.reuters.com/article/us-usa-newyork-tourism-idUSKBN0L61XM20150202
+* Canarias
+    * Lugares:
+        * http://www.canarias.com/blog/curiosidades-de-canarias/?print=pdf
+        * http://www.webtenerife.com/es/galeria-multimedia/folletos/lists/galeriafolletos/folleto%20tenerife%20en%20coche.pdf?iframe=true
+        * http://www.todotenerife.es/assets/downloads/db1a973947.pdf
+        * http://www.laguiadegrancanaria.com/archivos/guia_turistica_gran_canaria.pdf
+        * http://senderosdelapalma.es/wp-content/uploads/mapasenderos.pdf
+        * http://www.reservoirbirds.com/TripReports/RBTR_000002.pdf
+    * Fechas:
+        * http://www.spain-tenerife.com/es/descubrir/info-de-viaje/cuando-ir.html
+    * Clima:
+        * http://www.gobiernodecanarias.org/educacion/general/gestorglobal/DocsUp/parrafos/5324UD%202%20-%20Clima%20y%20vegetaci%C3%B3n%20de%20Canarias.pdf
+        * http://www.elmejorclimadelmundo.com/files/estudioenelanuariodeestudiosatlanticos.pdf
+        * http://www.divulgameteo.es/uploads/Caracter%C3%ADsticas-clima-Canarias.pdf
+        * http://www.elmejorclimadelmundo.com/files/informedelauniversidaddelalaguna.pdf
+        * http://editorial.dca.ulpgc.es/ftp/icaro/Anexos/2-%20CALOR/2-Clima/C.6.2-1%20Islas%20Canarias-Rasgos%20climaticos%20generales-INM.pdf
+
+    * Procedencias: 
+        * http://www.ccelpa.org/informe-anual/IA2013/2013/09-2013.pdf
+        * http://www.webtenerife.com/es/investigacion/situacion-turistica/informes-situacion-turistica/documents/balance%20de%20situaci%C3%B3n%20tur%C3%ADstica%202015.pdf
+
+
+## Procesamiento de los datos y transformaciones
+Todos los ficheros PDF y artículos web se han transformado a texto plano para su manipulación dentro de R. Para ello hemos usado distintas herramientas, como [PDF to TXT](http://pdftotext.com/es/) o [pdftotext](http://www.tutorialspoint.com/unix_commands/pdftotext.htm) para la conversión a PDF. Para extrar la información de sitios web se han convertido las páginas a PDF y luego se ha extraído.
