@@ -18,3 +18,21 @@ El nombre de nuestro proyecto será OticAnalyzer.
 
 ## Propuesta tecnológica concreta a desarrollar
 La realización de una aplicación desarrollada con el entorno de programación R Studio y el lenguaje de programación R. Esta aplicación realizará el análisis de lenguaje natural de la temática de turismo analizando los diferentes destinos, las fechas en las que hay mayor número de turistas, el clima durante todo el año de las diferentes ciudades y la procedencia de los turistas en diferentes años.
+
+## Fuente de datos
+Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a analizar que son, los lugares más emblemáticos o más visitados en esa localidad, las fechas es las que es más habitual viajar, o por el contrario en la que menos turistas lo hacen, cuál suele ser el clima del entorno durante el año y también los países de procedencia de los turistas.
+
+* Londres
+    * Lugares:
+        * http://travel.usnews.com/London_England/Things_To_Do/
+        * http://www.visitlondon.com/things-to-do/sightseeing/london-attraction/top-ten-attractions
+        * http://www.planetware.com/tourist-attractions-/london-eng-l-lon.htm
+    * Fechas:
+        * http://travel.usnews.com/London_England/When_To_Visit/
+        * http://www.visitlondon.com/discover-london/best-time-to-visit
+    * Clima:
+        * https://www.londoncitybreak.com/climate
+        * http://www.educationuk.org/usa/articles/weather-and-seasons/
+    * Procedencia (hasta 2015):
+        * https://files.datapress.com/london/dataset/number-international-visitors-london/2016-07-25T10:33:39/international-visitors-london-raw.csv
+        * http://files.londonandpartners.com/l-and-p/assets/our-insight-london-tourism-review-2014-15.pdf 
