@@ -7,3 +7,14 @@ Las ciudades que se analizarán serán:
 * Londres
 * Nueva York
 * Islas Canarias
+
+### Qué es el tratamiento de lenguaje natural
+El procesamiento del lenguaje natural (PLN) es el campo que combina las tecnologías de la ciencia computacional (como la inteligencia artificial, el aprendizaje automático o la inferencia estadística) con la lingüística aplicada, con el objetivo de hacer posible la comprensión y el procesamiento asistidos por ordenador de información expresada en lenguaje humano para determinadas tareas, como la traducción automática, los sistemas de diálogo interactivos, el análisis de opiniones, etc.
+
+Trasladando el PLN al proyecto que se realiza, se puede obtener de una manera fácil la demostración de las temporadas donde más turistas llegan a la ciudad, los turistas que más viajan, las ciudades más visitadas, etc. Estos datos, pueden servir para que diferentes touroperadoras puedan realizar un análisis completo del sector turístico en la ciudad y realizar comparaciones con otros países, mejorar las ofertas para ciudadanos de cierta zona, etc.
+
+## Nombre del proyecto
+El nombre de nuestro proyecto será OticAnalyzer.
+
+## Propuesta tecnológica concreta a desarrollar
+La realización de una aplicación desarrollada con el entorno de programación R Studio y el lenguaje de programación R. Esta aplicación realizará el análisis de lenguaje natural de la temática de turismo analizando los diferentes destinos, las fechas en las que hay mayor número de turistas, el clima durante todo el año de las diferentes ciudades y la procedencia de los turistas en diferentes años.
