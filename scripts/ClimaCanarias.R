@@ -23,10 +23,12 @@ clima <- list(clima1,clima2,clima3,clima4,clima5)
 corpus<-Corpus(VectorSource(clima))
 
 d<-tm_map(corpus,content_transformer(tolower))
-d<-tm_map(corpus,stripWhitespace)
+d<-tm_map(d,stripWhitespace)
 d<-tm_map(d,removePunctuation)
 d<-tm_map(d,removeNumbers)
-d<-tm_map(d,removeWords,stopwords("spanish"))
+d<-tm_map(d,removeWords,c("aao","dos","precipitacian","sharm","dalaman","aunque","canarias","hacia","estacian","aerop","haciasanta","wwg","daa","izaaa","smn","asa","ello","esta","cadigo","mas","daas","tac","aoc","rep","nao","salo","taonez","turquaa","omm","cruz",stopwords("spanish")))
+
+
 
 tdm<-TermDocumentMatrix(d)
 m=as.matrix(tdm)
@@ -35,5 +37,4 @@ m=as.matrix(tdm)
 wf<-sort(rowSums(m),decreasing = TRUE)
 dm<-data.frame(word=names(wf),freq=wf)
 
-
-wordcloud(dm$word,dm$freq,max.words = 100,random.order = FALSE,colors=brewer.pal(8,"Dark2"))
+wordcloud(dm$word, dm$freq, min.freq = 1,max.words=100, random.order=FALSE, colors=brewer.pal(8,"Dark2"))
