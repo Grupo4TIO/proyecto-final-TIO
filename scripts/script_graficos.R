@@ -1,8 +1,9 @@
 require("lattice")
 require("stringr")
-data <- read.csv("C:\\Users\\mal_p\\Documents\\GitHub\\repos\\proyecto-final-TIO\\datos\\londres\\visitantes.csv",header = TRUE)
+raiz <- setwd("~/")
+normalizado <- normalizePath(raiz)
+data <- read.csv(paste(normalizado,"\\proyecto-final-TIO\\datos\\londres\\visitantes.csv",sep=""),header = TRUE)
 mydata <- data[c(1:62),]
-
 plot1 <- xyplot(mydata$Country.of.origin ~ mydata$X2002,
        main="Visitors London (2002)",type = "p",
        pch = 16 ,auto.key = list(x= 0.85, y=0.85, text= c("2002"),
@@ -75,7 +76,7 @@ plot14 <- xyplot(mydata$Country.of.origin ~ mydata$X2015,
                                            title="Year"),ylab = "countries",xlab = "x1000 Visitors")
 
 for(i in 1:14){
-  setwd("~/")
+  setwd("~/proyecto-final-TIO/datos/londres/Graficos")
   archivo <- paste("xyplot",i,sep="")
   extension <- paste(archivo,".png",sep="")
   trellis.device(device="png", filename=extension,height=900,width=1024)
