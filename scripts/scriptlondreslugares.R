@@ -40,7 +40,6 @@ dm <- data.frame(word = names(wf), freq=wf)
 # Frecuencia minima igual a 20
 
 counts <- table (dm$word)
-barplot(counts, main="Lugares Más visitados", 
-        xlab="Number of Gears")
+ç
 wordcloud(dm$word, dm$freq, min.freq = 1,
           max.words=50, random.order=FALSE, colors=brewer.pal(8,"Dark2"))
