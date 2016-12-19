@@ -3,10 +3,11 @@ library (wordcloud)
 library (lsa)
 
 #Cargamos ficheros
-texto1 <- readLines("D:/Dropbox/4º Ingenieria Informatica/Primer cuatrimestre/TIO/Prácticas/Final/londres/Clima1.txt",encoding="UTF-8")
+raiz <- setwd("~/")
+texto1 <- readLines(paste(raiz,"/proyecto-final-TIO/datos/londres/Clima1.txt",sep = ""),encoding="UTF-8")
 texto1 = iconv(texto1, to="ASCII//TRANSLIT")
 
-texto2 <- readLines("D:/Dropbox/4º Ingenieria Informatica/Primer cuatrimestre/TIO/Prácticas/Final/londres/Clima2.txt",encoding="UTF-8")
+texto2 <- readLines(paste(raiz,"/proyecto-final-TIO/datos/londres/Clima2.txt",sep = ""),encoding="UTF-8")
 texto2 = iconv(texto2, to="ASCII//TRANSLIT")
 
 #Unimos todos los ficheros bajo una única lista y creamos el corpus
