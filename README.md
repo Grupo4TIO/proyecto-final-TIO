@@ -33,7 +33,7 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
         * http://www.visitlondon.com/discover-london/best-time-to-visit
     * Clima:
         * https://www.londoncitybreak.com/climate
-        * http://www.educationuk.org/usa/articles/weather-and-seasons/
+        * https://en.wikipedia.org/wiki/Climate_of_London
     * Procedencia (hasta 2015):
         * https://files.datapress.com/london/dataset/number-international-visitors-london/2016-07-25T10:33:39/international-visitors-london-raw.csv
         * http://files.londonandpartners.com/l-and-p/assets/our-insight-london-tourism-review-2014-15.pdf
