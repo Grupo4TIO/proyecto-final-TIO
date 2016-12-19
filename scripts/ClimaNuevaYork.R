@@ -33,7 +33,7 @@ cleanCorpus <- function (corpus) {
   d <- tm_map(d, stripWhitespace)
   d <- tm_map(d, removePunctuation)
   d <- tm_map(d, removeWords, stopwords('english'))
-  d <- tm_map(d, removeWords, c("will"))
+  d <- tm_map(d, removeWords, c("will", "weathermodification", "also", "2025", "may", "carbon", "systems", "however", "paper", "enemy", "aircraft", "can", "space", "new", "operations", "week", "radio", "study", "natural"))
   return (d)
 }
 
