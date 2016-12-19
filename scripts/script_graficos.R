@@ -1,7 +1,7 @@
 require("lattice")
 require("stringr")
 data <- read.csv("C:\\Users\\mal_p\\Documents\\GitHub\\repos\\proyecto-final-TIO\\datos\\londres\\visitantes.csv",header = TRUE)
-mydata <- data[c(1:47932),]
+mydata <- data[c(1:62),]
 
 plot1 <- xyplot(mydata$Country.of.origin ~ mydata$X2002,
        main="Visitors London (2002)",type = "p",
