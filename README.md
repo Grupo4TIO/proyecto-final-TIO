@@ -28,9 +28,6 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
         * http://travel.usnews.com/London_England/Things_To_Do/
         * http://www.visitlondon.com/things-to-do/sightseeing/london-attraction/top-ten-attractions
         * http://www.planetware.com/tourist-attractions-/london-eng-l-lon.htm
-    * Fechas:
-        * http://travel.usnews.com/London_England/When_To_Visit/
-        * http://www.visitlondon.com/discover-london/best-time-to-visit
     * Clima:
         * https://www.londoncitybreak.com/climate
         * https://en.wikipedia.org/wiki/Climate_of_London
@@ -44,9 +41,6 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
         * http://expediablog.co.uk/Expedia-New-York-Pocket-Guide.pdf
         * http://uk.complex.com/pop-culture/2013/06/best-summer-dates-in-nyc/fire-guns-at-west-side-rifle-and-pistol-range-and-shoot-mezcal-preferably-in-that-order
         * http://www.americaasyoulikeit.com/Public/Assets/User/files/brochures/AAYLI%20NY%20State%20brochure%20WEB.pdf
-    * Fechas:
-        * http://broadway.showtickets.com/articles/best-time-to-visit-nyc/
-        * www.usconsulate.org.hk/pas/kids/celebrat.pdf
     * Clima:
         * https://business.weather.com/writable/documents/Retail/Holiday-eBook-print_FINAL.pdf
         * http://csat.au.af.mil/2025/volume3/vol3ch15.pdf
@@ -61,9 +55,6 @@ Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a an
         * http://www.laguiadegrancanaria.com/archivos/guia_turistica_gran_canaria.pdf
         * http://senderosdelapalma.es/wp-content/uploads/mapasenderos.pdf
         * http://www.reservoirbirds.com/TripReports/RBTR_000002.pdf
-    * Fechas:
-        * http://www.spain-tenerife.com/es/descubrir/info-de-viaje/cuando-ir.html
-        * http://www.spain-grancanaria.com/es/descubrir/info-de-viaje/cuando-ir.html
     * Clima:
         * http://www.gobiernodecanarias.org/educacion/general/gestorglobal/DocsUp/parrafos/5324UD%202%20-%20Clima%20y%20vegetaci%C3%B3n%20de%20Canarias.pdf
         * http://www.elmejorclimadelmundo.com/files/estudioenelanuariodeestudiosatlanticos.pdf
