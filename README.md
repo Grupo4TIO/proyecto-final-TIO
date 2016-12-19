@@ -21,7 +21,7 @@ El nombre de nuestro proyecto será OticAnalyzer.
 La realización de una aplicación desarrollada con el entorno de programación R Studio y el lenguaje de programación R. Esta aplicación realizará el análisis de lenguaje natural de la temática de turismo analizando los diferentes destinos, las fechas en las que hay mayor número de turistas, el clima durante todo el año de las diferentes ciudades y la procedencia de los turistas en diferentes años.
 
 ## Fuente de datos
-Para recabar datos hemos seguido 4 parámetros para cada uno de los lugares a analizar que son, los lugares más emblemáticos o más visitados en esa localidad, las fechas es las que es más habitual viajar, o por el contrario en la que menos turistas lo hacen, cuál suele ser el clima del entorno durante el año y también los países de procedencia de los turistas.
+Para recabar datos hemos seguido 3 parámetros para cada uno de los lugares a analizar que son, los lugares más emblemáticos o más visitados en esa localidad, cuál suele ser el clima del entorno durante el año y también los países de procedencia de los turistas.
 
 * Londres
     * Lugares:
