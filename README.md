@@ -70,9 +70,22 @@ Para recabar datos hemos seguido 3 parámetros para cada uno de los lugares a an
 Todos los ficheros PDF y artículos web se han transformado a texto plano para su manipulación dentro de R. Para ello hemos usado distintas herramientas, como [PDF to TXT](http://pdftotext.com/es/) o [pdftotext](http://www.tutorialspoint.com/unix_commands/pdftotext.htm) para la conversión a PDF. Para extrar la información de sitios web se han convertido las páginas a PDF y luego se ha extraído.
 
 ## Resultados
+Los resultados esperados están relacionados con un buen clima en las Islas Canarias y frío y lluvioso en el caso de Londres y Nueva York. En este caso así ha sido, destacando que para Canarias unas de las palabras más repetidas han sido Diciembre y Enero, haciendo alusión al buen tiempo que hay en las islas en este periodo. Esta es la nube de palabras obtenidas para el caso de Canarias:
+
+![Clima de Canarias](/datos/canarias/Graficos/clima_canarias.PNG)
+
+Para los lugares, en el caso de Canarias esperamos ver playa, costa, Teide, así como sitios emblemáticos o que son muy visitados o conocidos. Para Londres, lugares que no podemos dejar sin visitar suelen ser el Buckingham Palace, el museo Tate de arte moderno, etc. Como vemos en la imagen bajo estas líneas, obtenemos esos lugares, así como los estudios de Harry Potter o la Torre de Londres. En el caso de Nueva York, los lugares más emblemáticos que esperamos ver serían Manhattan, Broadway, Central Park, etc. A continuación, se incluye una captura para el caso de Londres: 
+
+![Lugares de Canarias](/datos/londres/Graficos/lugares_Londres.PNG)
+
+Para analizar la procedencia del turismo, hemos decargado datos en csv con datos numéricos sobre la cantidad de visitantes por países, dividido en años. Para el caso de Canarias, los resultados esperados y obtenidos es un menor número de visitantes en islas no capitalinas, llevándose el grueso de turistas Tenerife y Gran Canarias. Gracias a la base de datos de Open Data de Londres, obtenemos las estadísticas más fiables y detalladas, por lo que vemos que la mayoría provienen de Estados Unidos. El caso que se ilustra bajo estas líneas es el de Nueva York, donde se muestra una gráfica con la evolución de turistas de a lo largo del tiempo, desde 1970 hasta 2012:
+
+![Visitantes de Nueva York](/datos/nuevayork/Graficos/ 6 .png)
+
+Una descripción detallada de los resultados se encuentra en el [archivo de la memoria](Memoria Otic Analyzer.pdf), disponible en este mismo repositorio.
 
 ## Diagrama de Gantt del desarrollo del proyecto
-Nuestro diagrama de Gantt inicial sería el siguiente:
+Para el desarrollo del proyecto hemos decidido crear un diagrama de Gantt, en el cual dividiremos nuestras proyecto en tareas y subtareas, asignaremos personal y horas, etc. El diagrama resultante es el siguiente:
 ![Diagrama de Gantt](Grantt.PNG)
 
 ## Propuesta de modelo de negocio para el desarrollo
